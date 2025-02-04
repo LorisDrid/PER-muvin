@@ -102,24 +102,28 @@ class Menu{
     }
 
     loadData(value) {
+        console.log("loadData called with value:", value);
         let node;
         if (this.chart.app === 'crobora') {
-            let datalist = d3.select(this.chart.shadowRoot.querySelector('#nodes-list'))
-            let option = datalist.selectAll('option').filter(function() { return this.value === value })
-            if (option.size()) node = option.datum()
-        } else 
-            node = this.chart.data.getNode(value.trim())
-        
-        if (node)
-            this.chart.data.load([node])
-        else {
-            alert('You must choose an option from the list.')
-            return
+            let datalist = d3.select(this.chart.shadowRoot.querySelector('#nodes-list'));
+            let option = datalist.selectAll('option').filter(function() { return this.value === value });
+            if (option.size()) node = option.datum();
+        } else {
+            node = this.chart.data.getNode(value.trim());
         }
         
+        console.log("Node found:", node);
         
-        this.clearSearch()
-    }
+        if (node)
+            this.chart.data.load([node]);
+        else {
+            console.log("No node found - showing alert");
+            alert('You must choose an option from the list.');
+            return;
+        }
+        
+        this.clearSearch();
+     }
 
     hideSearchFor() {
         this.div.select('#clear-network').style('display', 'none')

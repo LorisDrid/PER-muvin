@@ -69,28 +69,38 @@ app.get(prefix + '/:app', function (req, res) {
 
 // route to retrieve pre-queries nodes (for hal, wasabi and crobora apps)
 app.get(prefix + '/data/:app/nodes', async function(req, res) {
+    console.log("App requested:", req.params.app);
+    
     let parentdir = path.join(__dirname, 'data/')
+    console.log("Parent dir:", parentdir);
    
     if (!fs.existsSync(parentdir)){
         fs.mkdirSync(parentdir);
     }
 
     let dir = path.join(__dirname, `data/${req.params.app}/`)
+    console.log("Dir:", dir);
+    
     if (!fs.existsSync(dir)){
         fs.mkdirSync(dir);
     }
 
     let datafile = path.join(__dirname, `data/${req.params.app}/nodes.json`)
+    console.log("Datafile:", datafile);
         
     if (fs.existsSync(datafile)) {
+        console.log("Sending existing file");
         res.sendFile(datafile)
     } else if (datasets[req.params.app]) {
+        console.log("Creating new file");
         let transform = TransformFactory.getTransform(req.params.app)
         let nodes = await transform.getNodeLabels()
+        console.log("Nodes found:", nodes);
 
         fs.writeFileSync(datafile, JSON.stringify(nodes, null, 4))
         res.send(JSON.stringify(nodes))
     } else {
+        console.log("404 - App not found");
         res.status(404).send(`404: App "${req.params.app}" not found.`)
     }
 })

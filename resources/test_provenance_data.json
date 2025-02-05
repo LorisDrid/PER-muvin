@@ -1,0 +1,169 @@
+{
+    "metadata": {
+      "generatedAt": "2025-02-01T14:03:03.661Z"
+    },
+    "data": [
+      {
+        "id": "article1",
+        "title": "Discovery of Mona Lisa Early Sketch",
+        "date": "2010-03-15",
+        "type": "news",
+        "uri": {
+          "type": "uri",
+          "value": "article1"
+        },
+        "ego": {
+          "type": "literal",
+          "value": "Mona Lisa"
+        },
+        "alter": {
+          "type": "literal",
+          "value": "The Last Supper"
+        }
+      },
+      {
+        "id": "article2",
+        "title": "New Technology Reveals Hidden Details",
+        "date": "2015-07-22",
+        "type": "news",
+        "uri": {
+          "type": "uri",
+          "value": "article2"
+        },
+        "ego": {
+          "type": "literal",
+          "value": "Mona Lisa"
+        },
+        "alter": {
+          "type": "literal",
+          "value": "Mona Lisa"
+        }
+      },
+      {
+        "id": "article3",
+        "title": "Restoration Project Completed",
+        "date": "2020-11-30",
+        "type": "news",
+        "uri": {
+          "type": "uri",
+          "value": "article3"
+        },
+        "ego": {
+          "type": "literal",
+          "value": "Mona Lisa"
+        },
+        "alter": {
+          "type": "literal",
+          "value": "The Night Watch"
+        }
+      },
+      {
+        "id": "article4",
+        "title": "Lost Elements Found in Last Supper",
+        "date": "2012-02-10",
+        "type": "news",
+        "uri": {
+          "type": "uri",
+          "value": "article4"
+        },
+        "ego": {
+          "type": "literal",
+          "value": "The Last Supper"
+        },
+        "alter": {
+          "type": "literal",
+          "value": "The Last Supper"
+        }
+      },
+      {
+        "id": "article5",
+        "title": "Historical Analysis Reveals New Insights",
+        "date": "2016-09-05",
+        "type": "news",
+        "uri": {
+          "type": "uri",
+          "value": "article5"
+        },
+        "ego": {
+          "type": "literal",
+          "value": "The Last Supper"
+        },
+        "alter": {
+          "type": "literal",
+          "value": "Mona Lisa"
+        }
+      },
+      {
+        "id": "article6",
+        "title": "Conservation Challenges",
+        "date": "2019-04-18",
+        "type": "news",
+        "uri": {
+          "type": "uri",
+          "value": "article6"
+        },
+        "ego": {
+          "type": "literal",
+          "value": "The Last Supper"
+        },
+        "alter": {
+          "type": "literal",
+          "value": "The Last Supper"
+        }
+      },
+      {
+        "id": "article7",
+        "title": "Night Watch Restoration Begins",
+        "date": "2011-06-20",
+        "type": "news",
+        "uri": {
+          "type": "uri",
+          "value": "article7"
+        },
+        "ego": {
+          "type": "literal",
+          "value": "The Night Watch"
+        },
+        "alter": {
+          "type": "literal",
+          "value": "The Night Watch"
+        }
+      },
+      {
+        "id": "article8",
+        "title": "Hidden Figures Discovered",
+        "date": "2017-12-03",
+        "type": "news",
+        "uri": {
+          "type": "uri",
+          "value": "article8"
+        },
+        "ego": {
+          "type": "literal",
+          "value": "The Night Watch"
+        },
+        "alter": {
+          "type": "literal",
+          "value": "Mona Lisa"
+        }
+      },
+      {
+        "id": "article9",
+        "title": "Digital Recreation Project",
+        "date": "2021-08-15",
+        "type": "news",
+        "uri": {
+          "type": "uri",
+          "value": "article9"
+        },
+        "ego": {
+          "type": "literal",
+          "value": "The Night Watch"
+        },
+        "alter": {
+          "type": "literal",
+          "value": "The Night Watch"
+        }
+      }
+    ]
+  }

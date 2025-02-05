@@ -6,92 +6,90 @@ const path = require('path');
 class ProvenanceTransform extends Transform {
     constructor(db, config) {
         super(db, config);
+        this.resourcePath = path.resolve(__dirname, '../resources');
     }
 
     async fetchItems() {
         try {
-            const data = JSON.parse(fs.readFileSync(path.join(__dirname, '../resources/recategorized_data.json'), 'utf8'));
+            const dataPath = path.join(this.resourcePath, 'test_provenance_data.json');
+            console.log("Reading from:", dataPath);
+            const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
             this.values = await this.clean(data.data);
             return null;
         } catch (error) {
-            return { message: `Fetch failed: ${error}` };
+            return { message: `Fetch failed: ${error.message}` };
         }
     }
 
     async clean(data) {
-        console.log("Cleaning data in provenance transform");
+        console.log("Cleaning data, input length:", data.length);
         
-        const validData = data.filter(d => {
+        const values = data.map(d => {
             const date = new Date(d.date);
-            return !isNaN(date.getTime());
-        });
+            if (isNaN(date.getTime())) return null;
 
-        const values = validData.map(d => {
-            const date = new Date(d.date);
-            const year = date.getFullYear();
+            // Format date comme dans Wasabi: YYYY-MM-DD
+            const formattedDate = date.toISOString().split('T')[0];
+            
+            // Convertir en minuscules comme dans Wasabi
+            const mediaType = d.type ? d.type.toLowerCase() : "news";
             
             return {
-                uri: {
-                    type: "uri",
-                    value: d.id
-                },
+                uri: d.uri,
                 title: {
-                    type: "literal", 
+                    type: "literal",
                     value: d.title
                 },
                 date: {
                     type: "typed-literal",
                     datatype: "http://www.w3.org/2001/XMLSchema#date",
-                    value: d.date
+                    value: formattedDate
                 },
-                ego: {
+                ego: d.ego,
+                alter: d.alter,
+                type: {
                     type: "literal",
-                    value: `${d.subject?.name || ""} (${d.subject?.detailedCategory?.mainType || "OTHER"})`
-                },
-                alter: {
-                    type: "literal", 
-                    value: `${d.depicts?.name || ""} (${d.depicts?.detailedCategory?.mainType || "OTHER"})`
+                    value: mediaType
                 }
             };
-        });
-     
-        return values.filter(v => 
-            v.ego.value && v.ego.value !== " (OTHER)" && 
-            v.alter.value && v.alter.value !== " (OTHER)"
+        }).filter(v => v !== null);
+
+        const filtered = values.filter(v => 
+            v.ego.value && 
+            v.alter.value && 
+            v.date.value
         );
+
+        console.log(`Cleaned data: ${filtered.length} valid entries from ${values.length}`);
+        return filtered;
     }
 
     async getNodeLabels() {
         try {
-            const data = JSON.parse(fs.readFileSync(path.join(__dirname, '../resources/recategorized_data.json'), 'utf8'));
+            const dataPath = path.join(this.resourcePath, 'test_provenance_data.json');
+            console.log("Reading data for nodes from:", dataPath);
+            
+            const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
             const nodesSet = new Set();
             
-            // Ajouter les sujets et les depicts au set pour dédupliquer
+            // Collecter les noms uniques depuis le champ ego
             data.data.forEach(item => {
-                if (item.subject?.name) {
-                    const value = `${item.subject.name} (${item.subject.detailedCategory?.mainType || "OTHER"})`;
-                    nodesSet.add(value);
-                }
-                if (item.depicts?.name) {
-                    const value = `${item.depicts.name} (${item.depicts.detailedCategory?.mainType || "OTHER"})`;
-                    nodesSet.add(value);
+                if (item.ego?.value) {
+                    nodesSet.add(item.ego.value);
                 }
             });
 
-            // Convertir en tableau d'objets avec la propriété value
-            const nodes = Array.from(nodesSet).map(value => ({ value }));
-            console.log(`Generated ${nodes.length} unique nodes`);
+            const nodes = Array.from(nodesSet)
+                .sort()
+                .map(value => ({ value }));
+
+            console.log(`Generated ${nodes.length} artwork nodes:`, nodes);
             
             return nodes;
         } catch (error) {
             console.error("Error in getNodeLabels:", error);
             return [];
         }
-    }
-
-    getNode(value) {
-        // La valeur est exactement comme dans la liste déroulante
-        return { value };
     }
 }
 

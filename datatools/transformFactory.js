@@ -1,6 +1,6 @@
 const { Transform } = require('./transform')
 const { CroboraTransform } = require('./croboraTransform')
-const { ProvenanceTransform } = require('./provenanceTransform');
+const { ArtworkTransform } = require('./artworkTransform');
 
 class TransformFactory extends Transform {
     constructor() {
@@ -12,8 +12,8 @@ class TransformFactory extends Transform {
         switch (app) {
             case 'crobora':
                 return new CroboraTransform(app, data);
-            case 'provenance':
-                return new ProvenanceTransform(app, data);
+            case 'artwork':
+                return new ArtworkTransform(app, data);
             default:
                 return new Transform(app, data);
         }

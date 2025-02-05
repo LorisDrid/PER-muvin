@@ -103,12 +103,11 @@ const datasets = {
         nodeNames: ['https://crobora.huma-num.fr/crobora-api/cluster/names', 'https://crobora.huma-num.fr/crobora-api/cluster/names2'],
         items: 'https://crobora.huma-num.fr/crobora-api/search/imagesOR?categories=$category&keywords=$value&options=illustration&options=location&options=celebrity&options=event'
     },
-    'provenance': {
+    'artwork': {
         type: 'file',
         items: false,
         endpoint: null,
-        nodeNames: '../resources/recategorized_data.json',
-        // Ajout de configurations spécifiques pour provenance
+        nodeNames: '../resources/muvin_format.json',
         displayFormat: {
             includeType: true,
             separator: ' ('

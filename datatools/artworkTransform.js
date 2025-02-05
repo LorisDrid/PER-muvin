@@ -3,15 +3,20 @@ const { datasets } = require('./queries');
 const fs = require('fs');
 const path = require('path');
 
-class ProvenanceTransform extends Transform {
+class ArtworkTransform extends Transform {
     constructor(db, config) {
         super(db, config);
         this.resourcePath = path.resolve(__dirname, '../resources');
     }
 
+    capitalizeFirstLetter(string) {
+        if (!string || typeof string !== 'string') return '';
+        return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase();
+    }
+
     async fetchItems() {
         try {
-            const dataPath = path.join(this.resourcePath, 'test_provenance_data.json');
+            const dataPath = path.join(this.resourcePath, 'muvin_format.json');
             console.log("Reading from:", dataPath);
             const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
             this.values = await this.clean(data.data);
@@ -31,8 +36,8 @@ class ProvenanceTransform extends Transform {
             // Format date comme dans Wasabi: YYYY-MM-DD
             const formattedDate = date.toISOString().split('T')[0];
             
-            // Convertir en minuscules comme dans Wasabi
-            const mediaType = d.type ? d.type.toLowerCase() : "news";
+            // Capitaliser la première lettre au lieu de tout mettre en minuscules
+            const mediaType = d.type ? this.capitalizeFirstLetter(d.type) : "News";
             
             return {
                 uri: d.uri,
@@ -66,13 +71,12 @@ class ProvenanceTransform extends Transform {
 
     async getNodeLabels() {
         try {
-            const dataPath = path.join(this.resourcePath, 'test_provenance_data.json');
+            const dataPath = path.join(this.resourcePath, 'muvin_format.json');
             console.log("Reading data for nodes from:", dataPath);
             
             const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
             const nodesSet = new Set();
             
-            // Collecter les noms uniques depuis le champ ego
             data.data.forEach(item => {
                 if (item.ego?.value) {
                     nodesSet.add(item.ego.value);
@@ -94,5 +98,5 @@ class ProvenanceTransform extends Transform {
 }
 
 module.exports = {
-    ProvenanceTransform
+    ArtworkTransform: ArtworkTransform
 };

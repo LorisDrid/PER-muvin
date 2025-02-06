@@ -1,95 +1,85 @@
 const { Transform } = require('./transform');
-const { datasets } = require('./queries');
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 
 class ArtworkTransform extends Transform {
     constructor(db, config) {
         super(db, config);
-        this.resourcePath = path.resolve(__dirname, '../resources');
-    }
-
-    capitalizeFirstLetter(string) {
-        if (!string || typeof string !== 'string') return '';
-        return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase();
+        this.resourcePath = path.join(__dirname, '..', 'resources');
     }
 
     async fetchItems() {
         try {
-            const dataPath = path.join(this.resourcePath, 'muvin_format.json');
-            console.log("Reading from:", dataPath);
+            const dataPath = path.join(this.resourcePath, 'transformed_data.json');
+            
+            if (!fs.existsSync(dataPath)) {
+                throw new Error('transformed_data.json does not exist');
+            }
+
             const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-            this.values = await this.clean(data.data);
+            this.values = await this.clean(data.items);
             return null;
+            
         } catch (error) {
-            return { message: `Fetch failed: ${error.message}` };
+            return { message: `Error reading data: ${error.message}` };
         }
     }
 
     async clean(data) {
-        console.log("Cleaning data, input length:", data.length);
-        
-        const values = data.map(d => {
-            const date = new Date(d.date);
-            if (isNaN(date.getTime())) return null;
+        let values = [];
 
-            // Format date comme dans Wasabi: YYYY-MM-DD
-            const formattedDate = date.toISOString().split('T')[0];
-            
-            // Capitaliser la première lettre au lieu de tout mettre en minuscules
-            const mediaType = d.type ? this.capitalizeFirstLetter(d.type) : "News";
-            
-            return {
-                uri: d.uri,
-                title: {
-                    type: "literal",
-                    value: d.title
-                },
-                date: {
-                    type: "typed-literal",
-                    datatype: "http://www.w3.org/2001/XMLSchema#date",
-                    value: formattedDate
-                },
-                ego: d.ego,
-                alter: d.alter,
-                type: {
-                    type: "literal",
-                    value: mediaType
-                }
-            };
-        }).filter(v => v !== null);
+        // Extract type properly from node name
+        const currentNodeType = this.data.node.name.match(/\((.*?)\)$/)[1];
 
-        const filtered = values.filter(v => 
-            v.ego.value && 
-            v.alter.value && 
-            v.date.value
+        // Filter items related to the current node
+        const relevantItems = data.filter(item => 
+            item.ego.value === this.data.node.name || 
+            item.alter.value === this.data.node.name
         );
 
-        console.log(`Cleaned data: ${filtered.length} valid entries from ${values.length}`);
-        return filtered;
+        for (let item of relevantItems) {
+            // Clean up type names by removing any trailing parentheses
+            const egoType = item.egoNature.value.replace(/\)$/, '');
+            const alterType = item.alterNature.value.replace(/\)$/, '');
+
+            values.push({
+                uri: { value: item.uri.value },
+                ego: { value: this.data.node.name },
+                egoNature: { value: egoType },
+                type: { value: item.type.value },
+                title: { value: item.title.value },
+                date: { value: item.date.value },
+                alter: { value: item.ego.value === this.data.node.name ? item.alter.value : item.ego.value },
+                alterNature: { value: alterType },
+                link: { value: item.link ? item.link.value : null },
+                nodeKey: this.hash(this.data.node.name),
+                node: {
+                    name: this.data.node.name,
+                    type: currentNodeType,
+                    key: this.hash(this.data.node.name),
+                    contribution: [item.type.value]
+                }
+            });
+        }
+
+        return values;
+    }
+
+    hash(str) {
+        return crypto.createHash('sha256').update(str).digest('hex');
     }
 
     async getNodeLabels() {
         try {
-            const dataPath = path.join(this.resourcePath, 'muvin_format.json');
-            console.log("Reading data for nodes from:", dataPath);
+            const dataPath = path.join(this.resourcePath, 'transformed_data.json');
             
+            if (!fs.existsSync(dataPath)) {
+                throw new Error('transformed_data.json does not exist');
+            }
+
             const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-            const nodesSet = new Set();
-            
-            data.data.forEach(item => {
-                if (item.ego?.value) {
-                    nodesSet.add(item.ego.value);
-                }
-            });
-
-            const nodes = Array.from(nodesSet)
-                .sort()
-                .map(value => ({ value }));
-
-            console.log(`Generated ${nodes.length} artwork nodes:`, nodes);
-            
-            return nodes;
+            return data.nodes;
         } catch (error) {
             console.error("Error in getNodeLabels:", error);
             return [];
@@ -98,5 +88,5 @@ class ArtworkTransform extends Transform {
 }
 
 module.exports = {
-    ArtworkTransform: ArtworkTransform
+    ArtworkTransform
 };

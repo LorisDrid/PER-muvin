@@ -1,63 +1,55 @@
 const fs = require('fs');
 const path = require('path');
+const Papa = require('papaparse');
 
-const RESOURCE_DIR = '../resources';
+const RESOURCE_DIR = path.join(__dirname, '..', 'resources');
+const inputFile = path.join(RESOURCE_DIR, 'DATAVIZ.csv');
 
-function analyzeJSON(inputFile) {
-    try {
-        const resourcePath = path.join(__dirname, RESOURCE_DIR);
-        const inputPath = path.join(resourcePath, inputFile);
+function analyzeTagsPerObject() {
+    const fileContent = fs.readFileSync(inputFile, 'utf8');
+    const parsedData = Papa.parse(fileContent, {
+        header: true,
+        skipEmptyLines: true
+    });
 
-        if (!fs.existsSync(inputPath)) {
-            throw new Error(`Le fichier d'entrée ${inputPath} n'existe pas`);
+    // Créer d'abord un map des tags par objet
+    const objectTags = new Map();
+    
+    parsedData.data.forEach(row => {
+        if (row.Object && row.Tag) {
+            if (!objectTags.has(row.Object)) {
+                objectTags.set(row.Object, new Set());
+            }
+            objectTags.get(row.Object).add(row.Tag);
         }
+    });
 
-        const jsonData = JSON.parse(fs.readFileSync(inputPath, 'utf8'));
-
-        // Collecter tous les tags uniques par type
-        const tagCollections = {
-            mainTags: new Set(),
-            subjectTags: new Set(),
-            depictsTags: new Set(),
-            actorTags: new Set(),
-            publicationTags: new Set()
-        };
-
-        jsonData.data.forEach(item => {
-            if (item.mediaType?.original) tagCollections.mainTags.add(item.mediaType.original);
-            if (item.subject?.name) tagCollections.subjectTags.add(item.subject.name);
-            if (item.depicts?.name) tagCollections.depictsTags.add(item.depicts.name);
-            item.actors.forEach(actor => {
-                if (actor.name) tagCollections.actorTags.add(actor.name);
-            });
-            if (item.publication?.name) tagCollections.publicationTags.add(item.publication.name);
+    // Maintenant compter les occurrences uniques de chaque tag
+    const tagCounts = {};
+    objectTags.forEach(tags => {
+        tags.forEach(tag => {
+            tagCounts[tag] = (tagCounts[tag] || 0) + 1;
         });
+    });
 
-        // Générer le rapport détaillé
-        const report = {
-            mainTags: Array.from(tagCollections.mainTags).sort(),
-            subjectTags: Array.from(tagCollections.subjectTags).sort(),
-            depictsTags: Array.from(tagCollections.depictsTags).sort(),
-            actorTags: Array.from(tagCollections.actorTags).sort(),
-            publicationTags: Array.from(tagCollections.publicationTags).sort()
-        };
+    // Trier par fréquence décroissante
+    const sortedTags = Object.entries(tagCounts)
+        .sort(([,a], [,b]) => b - a)
+        .map(([tag, count]) => ({tag, count}));
 
-        // Sauvegarder le rapport
-        const outputPath = path.join(resourcePath, 'tags_analysis.json');
-        fs.writeFileSync(outputPath, JSON.stringify(report, null, 2));
-        
-        // Afficher un résumé
-        console.log("Analyse des tags :");
-        for (const [category, tags] of Object.entries(report)) {
-            console.log(`\n${category}:`);
-            console.log(`Nombre total: ${tags.length}`);
-            console.log("Exemples:", tags.slice(0, 10));
-        }
-
-    } catch (error) {
-        console.error('Erreur lors de l\'analyse :', error);
-    }
+    console.log("\nAnalyse des tags (une occurrence par objet) :");
+    console.log("=========================================");
+    sortedTags.forEach(({tag, count}) => {
+        console.log(`${tag}: ${count} objets`);
+    });
+    console.log("\nNombre total de tags uniques:", sortedTags.length);
+    console.log("Nombre total d'objets:", objectTags.size);
 }
 
-// Exécuter l'analyse
-analyzeJSON('transformed_data.json');
+if (require.main === module) {
+    analyzeTagsPerObject();
+}
+
+module.exports = {
+    analyzeTagsPerObject
+};

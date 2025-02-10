@@ -160,7 +160,7 @@ class DataModel {
 
     async updateTime() {
 
-        let items = await this.getItems()
+        let items = await this.getItems('nofilter')
         if (this.filters.focus) {
             this.dates = items.map(d => d.year)
         } else {
@@ -170,8 +170,10 @@ class DataModel {
         
         this.dates = this.dates.filter((d,i) => this.dates.indexOf(d) === i)
 
-        if (this.filters.timeFrom && this.filters.timeTo)
-            this.dates = this.dates.filter(d => d >= this.filters.timeFrom && d <= this.filters.timeTo)
+        //if (this.filters.timeFrom && this.filters.timeTo)
+        //    this.dates = this.dates.filter(d => d >= this.filters.timeFrom && d <= this.filters.timeTo)
+
+        console.log(this.dates)
 
         this.dates.sort()
 
@@ -268,13 +270,14 @@ class DataModel {
     // getters 
 
     async getItems() {
+        let filter = arguments[0]
 
         let uniqueKeys = this.items.map(d => d.contributors.map(e => e.key)).flat()
         uniqueKeys = uniqueKeys.filter((d,i) => uniqueKeys.indexOf(d) === i)
 
         let items = this.items.filter(d => !d.node.contribution.every(e => this.filters.linkTypes.includes(e)) ) // filter out selected link types
         
-        if (this.filters.timeFrom && this.filters.timeTo) {
+        if (!filter && this.filters.timeFrom && this.filters.timeTo) {
             items = items.filter(d => d.year >= this.filters.timeFrom && d.year <= this.filters.timeTo)
         }
        

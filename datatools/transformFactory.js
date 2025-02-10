@@ -8,7 +8,6 @@ class TransformFactory extends Transform {
     }
 
     static getTransform(app, data) {
-        console.log("factory appelée");
         switch (app) {
             case 'crobora':
                 return new CroboraTransform(app, data);

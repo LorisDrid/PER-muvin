@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1,
+    "title": "Portrait of a friend of the master",
+    "originalText": "March 2020 amicable settlement with the heirs",
+    "persons": [],
+    "institutions": [],
+    "places": [],
+    "years": [
+      "2020"
+    ],
+    "transactions": [
+      "settlement"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Head of a Man",
+    "originalText": "2019 amicable settlement with the heirs",
+    "persons": [],
+    "institutions": [],
+    "places": [],
+    "years": [
+      "2019"
+    ],
+    "transactions": [
+      "settlement"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "At the watering place",
+    "originalText": "Collection Abraham Adelsberger, 1934 confiscation in Nuremberg;Restitution to the heirs",
+    "persons": [
+      {
+        "name": "Abraham Adelsberger",
+        "type": "person"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Collection Abraham Adelsberger",
+        "type": "institution"
+      }
+    ],
+    "places": [
+      {
+        "name": "Nuremberg",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      }
+    ],
+    "years": [
+      "1934"
+    ],
+    "transactions": [
+      "confiscation",
+      "restitution"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Interior, mother punishing her daughter",
+    "originalText": "2016 amicable settlement with the heirs",
+    "persons": [],
+    "institutions": [],
+    "places": [],
+    "years": [
+      "2016"
+    ],
+    "transactions": [
+      "settlement"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Leopold II Maximilian, Prince of Anhalt-Dessau (1700-1751)",
+    "originalText": "Duke Joachim Ernst of Anhalt, Dessau Palace, stored in the palace vault, [...], recovery by amicable settlement.",
+    "persons": [
+      {
+        "name": "Duke Joachim Ernst",
+        "type": "person"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Dessau Palace",
+        "type": "institution"
+      }
+    ],
+    "places": [
+      {
+        "name": "Anhalt",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country"
+      }
+    ],
+    "years": [],
+    "transactions": [
+      "settlement"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Four figures",
+    "originalText": "Duke Joachim Ernst of Anhalt, Dessau Palace, [...] recovery through amicable arrangement.",
+    "persons": [
+      {
+        "name": "Duke Joachim Ernst",
+        "type": "person"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Dessau Palace",
+        "type": "institution"
+      }
+    ],
+    "places": [
+      {
+        "name": "Anhalt",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country"
+      }
+    ],
+    "years": [],
+    "transactions": [
+      "settlement"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "After the Storm / Nude on the beach",
+    "originalText": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Müller Zurich, Kunsthaus Zurich, agreement in 2012 between the Kunsthaus Zurich and the heirs",
+    "persons": [
+      {
+        "name": "Jean Baer",
+        "type": "person"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Kunsthaus Zurich",
+        "type": "institution"
+      },
+      {
+        "name": "Kunsthaus Zurich and the heirs",
+        "type": "institution"
+      },
+      {
+        "name": "Collection Jean Baer",
+        "type": "institution"
+      }
+    ],
+    "places": [
+      {
+        "name": "Berlin",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      },
+      {
+        "name": "Berlin",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      }
+    ],
+    "years": [
+      "1930",
+      "1939",
+      "1942",
+      "2012"
+    ],
+    "transactions": [
+      "settlement",
+      "loss"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Neger Othelle",
+    "originalText": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos Museum Linz",
+    "persons": [
+      {
+        "name": "Jean Baer",
+        "type": "person"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Lentos Museum",
+        "type": "institution"
+      },
+      {
+        "name": "Collection Jean Baer",
+        "type": "institution"
+      }
+    ],
+    "places": [
+      {
+        "name": "Berlin",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      },
+      {
+        "name": "Berlin",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      },
+      {
+        "name": "Berlin",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      },
+      {
+        "name": "Linz",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      },
+      {
+        "name": "Linz",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      }
+    ],
+    "years": [
+      "1930",
+      "1939",
+      "1942"
+    ],
+    "transactions": [
+      "loss"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "View from the studio window",
+    "originalText": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos Museum Linz",
+    "persons": [
+      {
+        "name": "Jean Baer",
+        "type": "person"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Lentos Museum",
+        "type": "institution"
+      },
+      {
+        "name": "Collection Jean Baer",
+        "type": "institution"
+      }
+    ],
+    "places": [
+      {
+        "name": "Berlin",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      },
+      {
+        "name": "Berlin",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      },
+      {
+        "name": "Linz",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      },
+      {
+        "name": "Linz",
+        "type": "place",
+        "dbpediaTypes": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City"
+      }
+    ],
+    "years": [
+      "1930",
+      "1939",
+      "1942"
+    ],
+    "transactions": [
+      "loss"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Landscape",
+    "originalText": "Sold between 1935 and 1945.",
+    "persons": [],
+    "institutions": [],
+    "places": [],
+    "years": [
+      "1935",
+      "1945"
+    ],
+    "transactions": [
+      "sale"
+    ]
+  }
+]

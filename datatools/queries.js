@@ -112,7 +112,30 @@ const datasets = {
             includeType: true,
             separator: ' ('
         }
-    }   
+    },   
+    'restitution': {
+        type: 'file',
+        items: false,
+        endpoint: null,
+        nodeNames: '../resources/Restitution.csv',
+        displayFormat: {
+            includeType: true,
+            separator: ' (',
+            typeColors: {
+                person: '#e74c3c',      // Rouge pour les personnes
+                institution: '#3498db',  // Bleu pour les institutions
+                place: '#2ecc71',       // Vert pour les lieux
+                artwork: '#9b59b6'       // Violet pour les œuvres d'art
+            },
+            transactionColors: {
+                settlement: '#f1c40f',    // Jaune pour les règlements
+                confiscation: '#e67e22',  // Orange pour les confiscations
+                sale: '#1abc9c',          // Turquoise pour les ventes
+                loss: '#c0392b',          // Rouge foncé pour les pertes
+                restitution: '#27ae60'    // Vert foncé pour les restitutions
+            }
+        }
+    }
 }
 
 module.exports = { datasets }

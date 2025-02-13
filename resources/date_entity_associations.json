@@ -1,0 +1,341 @@
+[
+  {
+    "title": "At the watering place",
+    "originalText": "Collection Abraham Adelsberger, 1934 confiscation in Nuremberg;Restitution to the heirs",
+    "dateEntityAssociations": [
+      {
+        "date": "1934",
+        "entity": {
+          "name": "Abraham",
+          "type": "person"
+        },
+        "event": "confiscation",
+        "context": "Collection Abraham Adelsberger, 1934 confiscation in Nuremberg;Restitution to the "
+      }
+    ]
+  },
+  {
+    "title": "After the Storm / Nude on the beach",
+    "originalText": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Müller Zurich, Kunsthaus Zurich, agreement in 2012 between the Kunsthaus Zurich and the heirs",
+    "dateEntityAssociations": [
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Collection Jean",
+          "type": "institution"
+        },
+        "event": "possession",
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer"
+      },
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Jean",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939"
+      },
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Jean Baer",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939"
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Jean",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939"
+      },
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Collection Jean Baer",
+          "type": "institution"
+        },
+        "event": "possession",
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Id"
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Ida Baer",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and "
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Collection O. Müller Zurich",
+          "type": "institution"
+        },
+        "event": "loss",
+        "context": "er, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Müller Zuri"
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "O. Müller",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": " Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Mül"
+      },
+      {
+        "date": "1942",
+        "entity": {
+          "name": "Ida Baer",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": " Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Mül"
+      },
+      {
+        "date": "1942",
+        "entity": {
+          "name": "Jean",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "stock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 "
+      },
+      {
+        "date": "1942",
+        "entity": {
+          "name": "Collection O. Müller Zurich",
+          "type": "institution"
+        },
+        "event": "loss",
+        "context": "1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Müller Zurich, Kunst"
+      },
+      {
+        "date": "2012",
+        "entity": {
+          "name": "Kunsthaus Zurich",
+          "type": "person"
+        },
+        "event": "settlement",
+        "context": " O. Müller Zurich, Kunsthaus Zurich, agreement in 2012 between the Kunsthaus Zurich and the heirs"
+      }
+    ]
+  },
+  {
+    "title": "Neger Othelle",
+    "originalText": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos Museum Linz",
+    "dateEntityAssociations": [
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Collection Jean",
+          "type": "institution"
+        },
+        "event": "possession",
+        "context": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer"
+      },
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Jean",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939"
+      },
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Jean Baer",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939"
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Jean",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939"
+      },
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Collection Jean Baer",
+          "type": "institution"
+        },
+        "event": "possession",
+        "context": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Id"
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Ida Baer",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": "hannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and "
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Wolfgang Gurlitt",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": "er, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, "
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Gurlitt",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": " Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt "
+      },
+      {
+        "date": "1942",
+        "entity": {
+          "name": "Ida Baer",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": " Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt "
+      },
+      {
+        "date": "1942",
+        "entity": {
+          "name": "Jean",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "auser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 "
+      },
+      {
+        "date": "1942",
+        "entity": {
+          "name": "Wolfgang Gurlitt",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": "1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Len"
+      }
+    ]
+  },
+  {
+    "title": "View from the studio window",
+    "originalText": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos Museum Linz",
+    "dateEntityAssociations": [
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Collection Jean",
+          "type": "institution"
+        },
+        "event": "possession",
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer"
+      },
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Jean",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 194"
+      },
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Jean Baer",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 194"
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Jean",
+          "type": "person"
+        },
+        "event": "possession",
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 194"
+      },
+      {
+        "date": "1930",
+        "entity": {
+          "name": "Collection Jean Baer",
+          "type": "institution"
+        },
+        "event": "possession",
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Id"
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Ida Baer",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in "
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Wolfgang Gurlitt",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": " Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, "
+      },
+      {
+        "date": "1939",
+        "entity": {
+          "name": "Jean Baer",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": "llection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt "
+      },
+      {
+        "date": "1942",
+        "entity": {
+          "name": "Ida Baer",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": "llection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt "
+      },
+      {
+        "date": "1942",
+        "entity": {
+          "name": "Jean",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berli"
+      },
+      {
+        "date": "1942",
+        "entity": {
+          "name": "Wolfgang Gurlitt",
+          "type": "person"
+        },
+        "event": "loss",
+        "context": "r, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Len"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5145 @@
+[
+  {
+    "title": "Portrait of a friend of the master",
+    "originalText": "March 2020 amicable settlement with the heirs",
+    "chronology": [
+      {
+        "date": {
+          "year": 2020,
+          "type": "single",
+          "originalText": "2020"
+        },
+        "entities": [
+          {
+            "name": "March 2020",
+            "uri": "http://dbpedia.org/resource/South_by_Southwest",
+            "types": [
+              "Wikidata:Q1656682",
+              "DUL:Event",
+              "Schema:Event",
+              "DBpedia:SocietalEvent",
+              "DBpedia:Event",
+              "DBpedia:Convention"
+            ],
+            "confidence": "0.5780674853007014"
+          },
+          {
+            "name": "amicable",
+            "uri": "http://dbpedia.org/resource/Amicable_numbers",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999988104826909"
+          },
+          {
+            "name": "settlement",
+            "uri": "http://dbpedia.org/resource/Human_settlement",
+            "types": [
+              ""
+            ],
+            "confidence": "0.6154645617995662"
+          }
+        ],
+        "context": "March 2020 amicable settlement with the heirs"
+      }
+    ]
+  },
+  {
+    "title": "Head of a Man",
+    "originalText": "2019 amicable settlement with the heirs",
+    "chronology": [
+      {
+        "date": {
+          "year": 2019,
+          "type": "single",
+          "originalText": "2019"
+        },
+        "entities": [
+          {
+            "name": "amicable",
+            "uri": "http://dbpedia.org/resource/Amicable_numbers",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999988104826909"
+          },
+          {
+            "name": "settlement",
+            "uri": "http://dbpedia.org/resource/Human_settlement",
+            "types": [
+              ""
+            ],
+            "confidence": "0.6452165056684208"
+          }
+        ],
+        "context": "2019 amicable settlement with the heirs"
+      }
+    ]
+  },
+  {
+    "title": "At the watering place",
+    "originalText": "Collection Abraham Adelsberger, 1934 confiscation in Nuremberg;Restitution to the heirs",
+    "chronology": [
+      {
+        "date": {
+          "year": 1934,
+          "type": "event",
+          "event": "confiscation",
+          "originalText": "1934 confiscation"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Collection_(museum)",
+            "types": [
+              ""
+            ],
+            "confidence": "0.49463104390235973"
+          },
+          {
+            "name": "confiscation",
+            "uri": "http://dbpedia.org/resource/Confiscation",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999530755293492"
+          },
+          {
+            "name": "Nuremberg",
+            "uri": "http://dbpedia.org/resource/Nuremberg",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.991493691635754"
+          },
+          {
+            "name": "Restitution",
+            "uri": "http://dbpedia.org/resource/Restitution",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9735948567498275"
+          }
+        ],
+        "context": "Collection Abraham Adelsberger, 1934 confiscation in Nuremberg;Restitution to the heirs"
+      },
+      {
+        "date": {
+          "year": 1934,
+          "type": "single",
+          "originalText": "1934"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Collection_(museum)",
+            "types": [
+              ""
+            ],
+            "confidence": "0.49463104390235973"
+          },
+          {
+            "name": "confiscation",
+            "uri": "http://dbpedia.org/resource/Confiscation",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999530755293492"
+          },
+          {
+            "name": "Nuremberg",
+            "uri": "http://dbpedia.org/resource/Nuremberg",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.991493691635754"
+          },
+          {
+            "name": "Restitution",
+            "uri": "http://dbpedia.org/resource/Restitution",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9735948567498275"
+          }
+        ],
+        "context": "Collection Abraham Adelsberger, 1934 confiscation in Nuremberg;Restitution to the heir"
+      }
+    ]
+  },
+  {
+    "title": "Interior, mother punishing her daughter",
+    "originalText": "2016 amicable settlement with the heirs",
+    "chronology": [
+      {
+        "date": {
+          "year": 2016,
+          "type": "single",
+          "originalText": "2016"
+        },
+        "entities": [
+          {
+            "name": "amicable",
+            "uri": "http://dbpedia.org/resource/Amicable_numbers",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999988104826909"
+          },
+          {
+            "name": "settlement",
+            "uri": "http://dbpedia.org/resource/Human_settlement",
+            "types": [
+              ""
+            ],
+            "confidence": "0.6223886463323113"
+          }
+        ],
+        "context": "2016 amicable settlement with the heirs"
+      }
+    ]
+  },
+  {
+    "title": "After the Storm / Nude on the beach",
+    "originalText": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Müller Zurich, Kunsthaus Zurich, agreement in 2012 between the Kunsthaus Zurich and the heirs",
+    "chronology": [
+      {
+        "date": {
+          "startYear": 1930,
+          "endYear": 1939,
+          "type": "range",
+          "originalText": "1930-1939/1942"
+        },
+        "entities": [
+          {
+            "name": "Haberstock",
+            "uri": "http://dbpedia.org/resource/Karl_Haberstock",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999999801901"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.2831851985584228"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          },
+          {
+            "name": "Müller",
+            "uri": "http://dbpedia.org/resource/Johannes_Peter_Müller",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.4811819044869278"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          }
+        ],
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in B"
+      },
+      {
+        "date": {
+          "endYear": 1930,
+          "type": "until",
+          "originalText": "until 1930"
+        },
+        "entities": [
+          {
+            "name": "Haberstock",
+            "uri": "http://dbpedia.org/resource/Karl_Haberstock",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999999801901"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.2831851985584228"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          }
+        ],
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Be"
+      },
+      {
+        "date": {
+          "year": 1930,
+          "type": "single",
+          "originalText": "1930"
+        },
+        "entities": [
+          {
+            "name": "Haberstock",
+            "uri": "http://dbpedia.org/resource/Karl_Haberstock",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999999801901"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.2831851985584228"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          }
+        ],
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Be"
+      },
+      {
+        "date": {
+          "year": 1930,
+          "type": "single",
+          "originalText": "1930"
+        },
+        "entities": [
+          {
+            "name": "Haberstock",
+            "uri": "http://dbpedia.org/resource/Karl_Haberstock",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999999801901"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.2831851985584228"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          },
+          {
+            "name": "Müller",
+            "uri": "http://dbpedia.org/resource/Johannes_Peter_Müller",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.4811819044869278"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          }
+        ],
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and"
+      },
+      {
+        "date": {
+          "startYear": 1939,
+          "endYear": 1942,
+          "type": "between",
+          "originalText": "between 1939 and 1942"
+        },
+        "entities": [
+          {
+            "name": "Haberstock",
+            "uri": "http://dbpedia.org/resource/Karl_Haberstock",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999999801901"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.2831851985584228"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          },
+          {
+            "name": "Müller",
+            "uri": "http://dbpedia.org/resource/Johannes_Peter_Müller",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.4811819044869278"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          }
+        ],
+        "context": "Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Müller Zurich, Kunsthaus"
+      },
+      {
+        "date": {
+          "year": 1939,
+          "type": "single",
+          "originalText": "1939"
+        },
+        "entities": [
+          {
+            "name": "Haberstock",
+            "uri": "http://dbpedia.org/resource/Karl_Haberstock",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999999801901"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.2831851985584228"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          },
+          {
+            "name": "Müller",
+            "uri": "http://dbpedia.org/resource/Johannes_Peter_Müller",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.4811819044869278"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          }
+        ],
+        "context": "Haberstock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942"
+      },
+      {
+        "date": {
+          "year": 1939,
+          "type": "single",
+          "originalText": "1939"
+        },
+        "entities": [
+          {
+            "name": "Haberstock",
+            "uri": "http://dbpedia.org/resource/Karl_Haberstock",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999999801901"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.2831851985584228"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          },
+          {
+            "name": "Müller",
+            "uri": "http://dbpedia.org/resource/Johannes_Peter_Müller",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.4811819044869278"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          }
+        ],
+        "context": "er, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Müller Zurich,"
+      },
+      {
+        "date": {
+          "year": 1942,
+          "type": "single",
+          "originalText": "1942"
+        },
+        "entities": [
+          {
+            "name": "Haberstock",
+            "uri": "http://dbpedia.org/resource/Karl_Haberstock",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999999801901"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.2831851985584228"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          },
+          {
+            "name": "Müller",
+            "uri": "http://dbpedia.org/resource/Johannes_Peter_Müller",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.4811819044869278"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          }
+        ],
+        "context": "stock, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in B"
+      },
+      {
+        "date": {
+          "year": 1942,
+          "type": "single",
+          "originalText": "1942"
+        },
+        "entities": [
+          {
+            "name": "Haberstock",
+            "uri": "http://dbpedia.org/resource/Karl_Haberstock",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999999801901"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.2831851985584228"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Karl_Ernst_von_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.9975703908996982"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          },
+          {
+            "name": "Müller",
+            "uri": "http://dbpedia.org/resource/Johannes_Peter_Müller",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.4811819044869278"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          }
+        ],
+        "context": "1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Collection O. Müller Zurich, Kunsthaus"
+      },
+      {
+        "date": {
+          "year": 2012,
+          "type": "single",
+          "originalText": "2012"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.929872258366644"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8238125459826866"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9991034691162385"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9296929981503059"
+          },
+          {
+            "name": "Müller",
+            "uri": "http://dbpedia.org/resource/Johannes_Peter_Müller",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.4811819044869278"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          },
+          {
+            "name": "Kunsthaus",
+            "uri": "http://dbpedia.org/resource/Kunsthaus_Graz",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999807370494939"
+          },
+          {
+            "name": "Zurich",
+            "uri": "http://dbpedia.org/resource/University_of_Zurich",
+            "types": [
+              "Wikidata:Q43229",
+              "Wikidata:Q3918",
+              "Wikidata:Q24229398",
+              "Wikidata:Q2385804",
+              "DUL:SocialPerson",
+              "DUL:Agent",
+              "Schema:Organization",
+              "Schema:EducationalOrganization",
+              "Schema:CollegeOrUniversity",
+              "DBpedia:Organisation",
+              "DBpedia:EducationalInstitution",
+              "DBpedia:Agent",
+              "DBpedia:University"
+            ],
+            "confidence": "0.9659408269847152"
+          }
+        ],
+        "context": "O. Müller Zurich, Kunsthaus Zurich, agreement in 2012 between the Kunsthaus Zurich and the heirs"
+      }
+    ]
+  },
+  {
+    "title": "Neger Othelle",
+    "originalText": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos Museum Linz",
+    "chronology": [
+      {
+        "date": {
+          "startYear": 1930,
+          "endYear": 1939,
+          "type": "range",
+          "originalText": "1930-1939/1942"
+        },
+        "entities": [
+          {
+            "name": "Thannhauser",
+            "uri": "http://dbpedia.org/resource/Thannhauser_Galleries",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999996809947"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.3191541934185659"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in B"
+      },
+      {
+        "date": {
+          "endYear": 1930,
+          "type": "until",
+          "originalText": "until 1930"
+        },
+        "entities": [
+          {
+            "name": "Thannhauser",
+            "uri": "http://dbpedia.org/resource/Thannhauser_Galleries",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999996809947"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.3191541934185659"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          }
+        ],
+        "context": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Be"
+      },
+      {
+        "date": {
+          "year": 1930,
+          "type": "single",
+          "originalText": "1930"
+        },
+        "entities": [
+          {
+            "name": "Thannhauser",
+            "uri": "http://dbpedia.org/resource/Thannhauser_Galleries",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999996809947"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.3191541934185659"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          }
+        ],
+        "context": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Be"
+      },
+      {
+        "date": {
+          "year": 1930,
+          "type": "single",
+          "originalText": "1930"
+        },
+        "entities": [
+          {
+            "name": "Thannhauser",
+            "uri": "http://dbpedia.org/resource/Thannhauser_Galleries",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999996809947"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.3191541934185659"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "Thannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and"
+      },
+      {
+        "date": {
+          "startYear": 1939,
+          "endYear": 1942,
+          "type": "between",
+          "originalText": "between 1939 and 1942"
+        },
+        "entities": [
+          {
+            "name": "Thannhauser",
+            "uri": "http://dbpedia.org/resource/Thannhauser_Galleries",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999996809947"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.3191541934185659"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos"
+      },
+      {
+        "date": {
+          "year": 1939,
+          "type": "single",
+          "originalText": "1939"
+        },
+        "entities": [
+          {
+            "name": "Thannhauser",
+            "uri": "http://dbpedia.org/resource/Thannhauser_Galleries",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999996809947"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.3191541934185659"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "hannhauser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942"
+      },
+      {
+        "date": {
+          "year": 1939,
+          "type": "single",
+          "originalText": "1939"
+        },
+        "entities": [
+          {
+            "name": "Thannhauser",
+            "uri": "http://dbpedia.org/resource/Thannhauser_Galleries",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999996809947"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.3191541934185659"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "er, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz"
+      },
+      {
+        "date": {
+          "year": 1942,
+          "type": "single",
+          "originalText": "1942"
+        },
+        "entities": [
+          {
+            "name": "Thannhauser",
+            "uri": "http://dbpedia.org/resource/Thannhauser_Galleries",
+            "types": [
+              ""
+            ],
+            "confidence": "0.9999999996809947"
+          },
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.3191541934185659"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "auser, until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in B"
+      },
+      {
+        "date": {
+          "year": 1942,
+          "type": "single",
+          "originalText": "1942"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.3191541934185659"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9996580255335736"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "1939/1942 Ida Baer, Berlin, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos"
+      }
+    ]
+  },
+  {
+    "title": "View from the studio window",
+    "originalText": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos Museum Linz",
+    "chronology": [
+      {
+        "date": {
+          "startYear": 1930,
+          "endYear": 1939,
+          "type": "range",
+          "originalText": "1930-1939/1942"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.319154193418575"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, W"
+      },
+      {
+        "date": {
+          "endYear": 1930,
+          "type": "until",
+          "originalText": "until 1930"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.319154193418575"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          }
+        ],
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, lo"
+      },
+      {
+        "date": {
+          "year": 1930,
+          "type": "single",
+          "originalText": "1930"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.319154193418575"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          }
+        ],
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, lo"
+      },
+      {
+        "date": {
+          "year": 1930,
+          "type": "single",
+          "originalText": "1930"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.319154193418575"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in"
+      },
+      {
+        "date": {
+          "startYear": 1939,
+          "endYear": 1942,
+          "type": "between",
+          "originalText": "between 1939 and 1942"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.319154193418575"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "llection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos"
+      },
+      {
+        "date": {
+          "year": 1939,
+          "type": "single",
+          "originalText": "1939"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.319154193418575"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berl"
+      },
+      {
+        "date": {
+          "year": 1939,
+          "type": "single",
+          "originalText": "1939"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.319154193418575"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz"
+      },
+      {
+        "date": {
+          "year": 1942,
+          "type": "single",
+          "originalText": "1942"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.319154193418575"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "until 1930 Collection Jean Baer, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, W"
+      },
+      {
+        "date": {
+          "year": 1942,
+          "type": "single",
+          "originalText": "1942"
+        },
+        "entities": [
+          {
+            "name": "Collection",
+            "uri": "http://dbpedia.org/resource/Calvin_Klein_Collection",
+            "types": [
+              ""
+            ],
+            "confidence": "0.7741404665770467"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "Ida",
+            "uri": "http://dbpedia.org/resource/Ida_Barlow",
+            "types": [
+              "Wikidata:Q95074",
+              "Wikidata:Q24229398",
+              "DUL:Agent",
+              "DBpedia:FictionalCharacter",
+              "DBpedia:Agent",
+              "DBpedia:SoapCharacter"
+            ],
+            "confidence": "0.319154193418575"
+          },
+          {
+            "name": "Baer",
+            "uri": "http://dbpedia.org/resource/Reinhold_Baer",
+            "types": [
+              "Http://xmlns.com/foaf/0.1/Person",
+              "Wikidata:Q901",
+              "Wikidata:Q729",
+              "Wikidata:Q5",
+              "Wikidata:Q215627",
+              "Wikidata:Q19088",
+              "DUL:NaturalPerson",
+              "Schema:Person",
+              "DBpedia:Species",
+              "DBpedia:Person",
+              "DBpedia:Eukaryote",
+              "DBpedia:Animal",
+              "DBpedia:Scientist"
+            ],
+            "confidence": "0.558026171951605"
+          },
+          {
+            "name": "loss",
+            "uri": "http://dbpedia.org/resource/Habitat_destruction",
+            "types": [
+              ""
+            ],
+            "confidence": "0.8236686666482635"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Wolfgang Gurlitt",
+            "uri": "http://dbpedia.org/resource/Wolfgang_Gurlitt",
+            "types": [
+              ""
+            ],
+            "confidence": "1.0"
+          },
+          {
+            "name": "Berlin",
+            "uri": "http://dbpedia.org/resource/Berlin",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9973628748127185"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          },
+          {
+            "name": "Lentos",
+            "uri": "http://dbpedia.org/resource/Lentos_Art_Museum",
+            "types": [
+              "Wikidata:Q41176",
+              "Wikidata:Q33506",
+              "DBpedia:Building",
+              "DBpedia:ArchitecturalStructure",
+              "DBpedia:Museum"
+            ],
+            "confidence": "0.9999999999991758"
+          },
+          {
+            "name": "Linz",
+            "uri": "http://dbpedia.org/resource/Linz",
+            "types": [
+              "Wikidata:Q515",
+              "Wikidata:Q486972",
+              "Schema:Place",
+              "Schema:City",
+              "DBpedia:Settlement",
+              "DBpedia:PopulatedPlace",
+              "DBpedia:Place",
+              "DBpedia:Location",
+              "DBpedia:City"
+            ],
+            "confidence": "0.9999999997739337"
+          }
+        ],
+        "context": "r, 1930-1939/1942 Ida Baer, loss between 1939 and 1942 in Berlin, Wolfgang Gurlitt Berlin, Linz, Lentos"
+      }
+    ]
+  },
+  {
+    "title": "Landscape",
+    "originalText": "Sold between 1935 and 1945.",
+    "chronology": [
+      {
+        "date": {
+          "startYear": 1935,
+          "endYear": 1945,
+          "type": "between",
+          "originalText": "between 1935 and 1945"
+        },
+        "entities": [
+          {
+            "name": "Sold",
+            "uri": "http://dbpedia.org/resource/Sold_(2014_film)",
+            "types": [
+              "Wikidata:Q386724",
+              "Wikidata:Q11424",
+              "Schema:Movie",
+              "Schema:CreativeWork",
+              "DBpedia:Work",
+              "DBpedia:Film"
+            ],
+            "confidence": "0.49638285810324484"
+          }
+        ],
+        "context": "Sold between 1935 and 1945."
+      },
+      {
+        "date": {
+          "year": 1935,
+          "type": "single",
+          "originalText": "1935"
+        },
+        "entities": [
+          {
+            "name": "Sold",
+            "uri": "http://dbpedia.org/resource/Sold_(2014_film)",
+            "types": [
+              "Wikidata:Q386724",
+              "Wikidata:Q11424",
+              "Schema:Movie",
+              "Schema:CreativeWork",
+              "DBpedia:Work",
+              "DBpedia:Film"
+            ],
+            "confidence": "0.49638285810324484"
+          }
+        ],
+        "context": "Sold between 1935 and 1945."
+      },
+      {
+        "date": {
+          "year": 1945,
+          "type": "single",
+          "originalText": "1945"
+        },
+        "entities": [
+          {
+            "name": "Sold",
+            "uri": "http://dbpedia.org/resource/Sold_(2014_film)",
+            "types": [
+              "Wikidata:Q386724",
+              "Wikidata:Q11424",
+              "Schema:Movie",
+              "Schema:CreativeWork",
+              "DBpedia:Work",
+              "DBpedia:Film"
+            ],
+            "confidence": "0.49638285810324484"
+          }
+        ],
+        "context": "Sold between 1935 and 1945."
+      }
+    ]
+  }
+]

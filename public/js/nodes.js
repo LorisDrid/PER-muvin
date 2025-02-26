@@ -46,20 +46,41 @@ class NodesGroup {
 
     // draw the second level nodes of the network (e.g. documents, songs/albums)
     async draw() {
-
         this.data = await this.chart.data.getItems();
         
         await this.computeRadius()
-
+    
         await this.appendNodes()
-
-        this.group.selectAll('.doc')
-            .on('click', d => window.open(d.link))
-            .on('mouseenter', d => { let e = d3.event; this.mouseover(e, d, 'item') })
-            .on('mouseleave', () => this.mouseout()) // set a timeout to ensure that mouseout is not triggered while rapidly changing the hover
-
+        
+        // Check if this is the artscam app
+        if (this.chart.app === "artscam") {
+            // For artscam: use click to show/hide tooltip
+            this.group.selectAll('.doc')
+                .on('click', d => {
+                    let e = d3.event;
+                    e.preventDefault();
+                    e.stopPropagation();
+                    
+                    // If tooltip is already shown for this item, hide it
+                    if (this.tooltipId && this.currentItemId === d.id) {
+                        this.mouseout();
+                    } else {
+                        // Otherwise show the tooltip
+                        this.mouseover(e, d, 'item');
+                        this.currentItemId = d.id;
+                    }
+                })
+                .on('mouseenter', null)  // Remove hover handlers
+                .on('mouseleave', null);
+        } else {
+            // For other apps: keep original behavior (hover to show, click to open link)
+            this.group.selectAll('.doc')
+                .on('click', d => window.open(d.link))
+                .on('mouseenter', d => { let e = d3.event; this.mouseover(e, d, 'item') })
+                .on('mouseleave', () => this.mouseout())
+        }
+    
         this.placeItems()
-
     }      
     
     placeItems() {
@@ -132,23 +153,23 @@ class NodesGroup {
     }
 
     mouseout() {
-
-        
         if (this.chart.getTimeSelection()) this.chart.sndlinks.reverse()
-
+    
+        // Clean up tooltip
         this.chart.tooltip.hide(this.tooltipId)
         this.tooltipId = null;
-
-        this.reverse()     
-
-        this.chart.fstlinks.hideLabels()
-
-        if (this.chart.isFreezeActive()) return
-
-        this.chart.fstlinks.reverse()
         
+        // Clean up currentItemId if this is artscam
+        if (this.chart.app === "artscam") {
+            this.currentItemId = null;
+        }
+    
+        this.reverse()     
+        this.chart.fstlinks.hideLabels()
+    
+        if (this.chart.isFreezeActive()) return
+        this.chart.fstlinks.reverse()
         this.chart.profiles.reverseDownplay()
-
     }
 
     reverse() {

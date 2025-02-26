@@ -1,0 +1,179 @@
+{
+  "totalNamesFound": 172,
+  "namesAfterFiltering": 84,
+  "corrections": [
+    {
+      "original": "John Gutfreund",
+      "corrected": "John Gutfreund, 86, Dies; Ran Wall Street Investment Firm at Its Apex",
+      "confidence": 0
+    },
+    {
+      "original": "The Feds",
+      "corrected": "The feds are coming",
+      "confidence": 0
+    },
+    {
+      "original": "Andrew Crisp",
+      "corrected": "Andrew Crispo",
+      "confidence": 0
+    },
+    {
+      "original": "Alfred Bei",
+      "corrected": "Sir Alfred Beit, 2nd Baronet",
+      "confidence": 0
+    },
+    {
+      "original": "Frederik Roos",
+      "corrected": "Frederik Roosdorp",
+      "confidence": 0
+    },
+    {
+      "original": "De Kooning",
+      "corrected": "de Kooning: A Retrospective",
+      "confidence": 0
+    },
+    {
+      "original": "Jeanne Hebuterne",
+      "corrected": "Jeanne H\u00e9buterne",
+      "confidence": 0
+    }
+  ],
+  "validatedNames": [
+    {
+      "name": "Bernard Schuster",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q85942318",
+          "description": "art historian",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "John Gutfreund",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q123589467",
+          "description": "The New York Times article (March 10, 2016)",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "Klaus Perls",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q6419949",
+          "description": "German American art dealer (1912-2008)",
+          "confidence": 0
+        },
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q57686076",
+          "description": "journal article; published in 1946",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "The Feds",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q40528391",
+          "description": "scientific article published on February 1, 1977",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "Andrew Crisp",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q95387999",
+          "description": "American art gallerist and convicted felon",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "Andrew Crispo",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q95387999",
+          "description": "American art gallerist and convicted felon",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "Alfred Bei",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q7525968",
+          "description": "British politician, art collector and philanthropist (1903-1994)",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "Frederik Roos",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q43135952",
+          "description": "Dutch artist",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "Pablo Picasso",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q5593",
+          "description": "Spanish painter and sculptor (1881\u20131973)",
+          "confidence": 0
+        },
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q64157679",
+          "description": "photograph in the National Gallery of Art (NGA 92324)",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "De Kooning",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q23013333",
+          "description": "retrospective art exhibition",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "Perls Galleries",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q67164948",
+          "description": "American art gallery",
+          "confidence": 0
+        }
+      ]
+    },
+    {
+      "name": "Jeanne Hebuterne",
+      "validations": [
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q235605",
+          "description": "French painter (1898\u20131920)",
+          "confidence": 0
+        },
+        {
+          "wikidata": "http://www.wikidata.org/entity/Q3937583",
+          "description": "painting by Amadeo Modigliani in the Metropolitan Museum",
+          "confidence": 0
+        }
+      ]
+    }
+  ],
+  "validationDate": "2025-02-13 17:09:36.092004"
+}

@@ -135,7 +135,17 @@ const datasets = {
                 restitution: '#27ae60'    // Vert foncé pour les restitutions
             }
         }
-    }
+    },
+    'artscam': {
+        type: 'file',
+        items: false,
+        endpoint: null,
+        nodeNames: '../resources/art_scams.json',
+        displayFormat: {
+            includeType: true,
+            separator: ' ('
+        }
+    },
 }
 
 module.exports = { datasets }

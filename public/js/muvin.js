@@ -67,9 +67,28 @@ class Muvin extends HTMLElement {
         this.group = this.svg.select('g#chart-group')
             .attr('transform', `translate(0, ${this.margin.top})`)
 
-        d3.select(this.shadowRoot).on('click', () => {
-            this.shadowRoot.querySelectorAll('div.context-menu').style = 'none'
-        })
+            d3.select(this.shadowRoot).on('click', (e) => {
+                // Close context menus for all apps
+                this.shadowRoot.querySelectorAll('div.context-menu').forEach(menu => {
+                    menu.style.display = 'none';
+                });
+                
+                // Only add tooltip closing behavior for artscam app
+                if (this.app === "artscam") {
+                    // Close tooltips when clicking outside nodes/tooltips
+                    const target = e.target;
+                    const isTooltip = target.closest('.tooltip');
+                    const isNode = target.closest('.doc') || target.closest('.item-circle');
+                    
+                    if (!isTooltip && !isNode) {
+                        this.tooltip.hideAll();
+                        // Reset current item in NodesGroup
+                        if (this.nodes && this.nodes.currentItemId) {
+                            this.nodes.currentItemId = null;
+                        }
+                    }
+                }
+            })
         
         this.data = new DataModel(this.app, {query: this.query, endpoint: this.endpoint, token: this.token})
 

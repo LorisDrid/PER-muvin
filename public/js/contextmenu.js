@@ -15,14 +15,24 @@ class ContextMenu {
     }
 
     getNodeMenu(d) {
-        let menu = []
-
-        if (d.nodeLink) 
+        let menu = [];
+        // Debug complet du nœud
+        console.log("Full node object:", d);
+        console.log("Node type:", typeof d);
+        
+        // Récupérer le nœud complet via getNodeById
+        const node = this.chart.data.getNodeById(d);
+        console.log("Node from getNodeById:", node);
+        
+        if (node && node.nodeLink) {
+            console.log("Found nodeLink:", node.nodeLink);
             menu.push({
                 title: 'Go to source',
-                action: d => window.open(d.nodeLink)
-            })
-
+                // Important: Pass the parameter d to the function
+                action: (d) => window.open(node.nodeLink)
+            });
+        }
+    
         if (this.chart.data.getNodesKeys().length > 1) {
             menu.push({ title: d => this.chart.data.getFocus() === d ? 'Release highlight' : 'Highlight network', 
                         action: async(d) => { 
@@ -33,34 +43,34 @@ class ContextMenu {
                             else { 
                                 this.chart.data.updateFilters('focus', d)
                             }
-
+    
                             await this.chart.data.updateTime()
                             this.chart.update()
                         }
                     })            
         }
-
+    
         menu.push({
             title: d => this.chart.isProfileVisible(d) ? 'Hide temporal profile' : 'Show temporal profile',
             action: d => {
                 let index = this.chart.removeProfile(d)
                 if (index > -1 && this.chart.isSelected(d)) this.chart.yAxis.setDistortion(d)
                 if (index === -1) this.chart.displayProfile(d)
-
+    
                 this.chart.profiles.draw()
             }
         })
-
+    
         menu.push({
             title: d => this.chart.areItemsVisible(d) ? 'Hide items' : 'Show items',
             action: d => {
                 let index = this.chart.removeItems(d)
                 if (index === -1) this.chart.displayItems(d)
-
+    
                 this.chart.nodes.draw()
             }
         })
-
+    
         
         let keys = this.chart.data.getNodesKeys()
         if (keys.length > 1)
@@ -74,11 +84,11 @@ class ContextMenu {
                             focus = index === 0 ? keys[index + 1] : keys[index - 1]
                         } else if (this.chart.visibleItems.includes(d)) this.chart.updateVisibleNodes() 
                     }
-
+    
                     this.chart.data.remove(d, focus)
                 } 
             })
-
+    
         if (keys.length > 1) {
             menu.push({
                 title: 'Move',
@@ -104,7 +114,7 @@ class ContextMenu {
                         if (index === keys.length - 1) return;
                         let indexB = index + 1;
                         this.chart.data.switchNodes(index, indexB)
-
+    
                         if (this.chart.yAxis.focus === d) { 
                             this.chart.update(keys[index])
                         } else {
@@ -114,7 +124,7 @@ class ContextMenu {
                     }} ]
                 })
         }
-
+    
         let collaborators = this.chart.data.getNodeById(d).collaborators
         if (collaborators.length) { /// the author has one or more co-authors
             menu.push({ title: 'Explore collaborators', 

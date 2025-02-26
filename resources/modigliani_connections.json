@@ -1,0 +1,132 @@
+{
+  "Scumbag Descending a Staircase": {
+    "title": "Scumbag Descending a Staircase",
+    "publicationDate": "1992-10-01T00:00:00Z",
+    "url": "",
+    "mainSubjects": [
+      "Klaus Perls",
+      "art forgery",
+      "Gloria Vanderbilt",
+      "Woman's Head",
+      "Amedeo Modigliani",
+      "erroneous provenance (artwork)"
+    ],
+    "depicts": [
+      "art forgery",
+      "Woman's Head",
+      "Gloria Vanderbilt",
+      "Klaus Perls",
+      "Arthur Pfannstiel",
+      "erroneous provenance (artwork)",
+      "Modigliani : a study of his sculpture"
+    ],
+    "authors": [],
+    "publishers": [],
+    "connections": {
+      "namesOfConcern": [
+        {
+          "name": "Arthur Pfannstiel",
+          "foundIn": "NamesOfConcern",
+          "details": {
+            "item": "http://www.wikidata.org/entity/Q60523377",
+            "itemLabel": "Arthur Pfannstiel",
+            "itemDescription": "translator of Hitler and Celine, art dealer, writer",
+            "status": "ALIU Red Flag",
+            "altNames": "A. Pfannstiel, Arthur S. Pfannstiel",
+            "GND": "",
+            "Proveana": "",
+            "VIAF": "4111243",
+            "LCCN": "n91066237",
+            "RunDate": "25-janv-24"
+          }
+        }
+      ],
+      "query261": []
+    }
+  },
+  "New evidence cited in restitution claim for Panama Papers Modigliani": {
+    "title": "New evidence cited in restitution claim for Panama Papers Modigliani",
+    "publicationDate": "2020-01-09T00:00:00Z",
+    "url": "https://www.theartnewspaper.com/2020/01/09/new-evidence-cited-in-restitution-claim-for-panama-papers-modigliani",
+    "mainSubjects": [
+      "Panama Papers",
+      "David Nahmad",
+      "Oscar Stettiner",
+      "claim for restitution of an artwork",
+      "Seated Man with a Cane"
+    ],
+    "depicts": [
+      "claim for restitution of an artwork",
+      "erroneous provenance (artwork)",
+      "David Nahmad",
+      "Oscar Stettiner",
+      "Panama Papers"
+    ],
+    "authors": [
+      "Catherine Hickley"
+    ],
+    "publishers": [],
+    "connections": {
+      "namesOfConcern": [
+        {
+          "name": "David Nahmad",
+          "foundIn": "NamesOfConcern",
+          "details": {
+            "item": "http://www.wikidata.org/entity/Q1175852",
+            "itemLabel": "David Nahmad",
+            "itemDescription": "Lebanese fine art dealer and billionaire",
+            "status": "Holocaust Aryanization or art restitution case link",
+            "altNames": "",
+            "GND": "1050052064",
+            "Proveana": "",
+            "VIAF": "305857123",
+            "LCCN": "no2013129262",
+            "RunDate": "25-janv-24"
+          }
+        },
+        {
+          "name": "David Nahmad",
+          "foundIn": "NamesOfConcern",
+          "details": {
+            "item": "http://www.wikidata.org/entity/Q1175852",
+            "itemLabel": "David Nahmad",
+            "itemDescription": "Lebanese fine art dealer and billionaire",
+            "status": "Holocaust Aryanization or art restitution case link",
+            "altNames": "",
+            "GND": "1050052064",
+            "Proveana": "",
+            "VIAF": "305857123",
+            "LCCN": "no2013129262",
+            "RunDate": "25-janv-24"
+          }
+        }
+      ],
+      "query261": []
+    }
+  },
+  "The Art Market’s Modigliani Forgery Epidemic": {
+    "title": "The Art Market’s Modigliani Forgery Epidemic",
+    "publicationDate": "2017-05-03T00:00:00Z",
+    "url": "https://www.vanityfair.com/style/2017/05/worlds-most-faked-artists-amedeo-modigliani-picasso",
+    "mainSubjects": [
+      "erroneous provenance (artwork)",
+      "Elmyr de Hory",
+      "Christian Parisot",
+      "art forgery",
+      "Amedeo Modigliani"
+    ],
+    "depicts": [
+      "erroneous provenance (artwork)",
+      "Elmyr de Hory",
+      "art forgery",
+      "Amedeo Modigliani",
+      "art market"
+    ],
+    "authors": [],
+    "publishers": [],
+    "connections": {
+      "namesOfConcern": [],
+      "query261": []
+    }
+  }
+}

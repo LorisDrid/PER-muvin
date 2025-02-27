@@ -159,26 +159,20 @@ class DataModel {
     }
 
     async updateTime() {
-
+        // Obtenir tous les items
         let items = await this.getItems('nofilter')
-        if (this.filters.focus) {
-            this.dates = items.map(d => d.year)
+        
+        // Utiliser getAllDates() pour garantir une séquence complète
+        this.dates = this.getAllDates()
+        
+        // Définir les filtres de temps basés sur la plage complète
+        if (this.dates.length > 0) {
+            this.filters.timeFrom = this.dates[0]
+            this.filters.timeTo = this.dates[this.dates.length - 1]
         } else {
-            this.dates = items.map(d => d.year)
+            this.filters.timeFrom = null
+            this.filters.timeTo = null
         }
-        
-        
-        this.dates = this.dates.filter((d,i) => this.dates.indexOf(d) === i)
-
-        //if (this.filters.timeFrom && this.filters.timeTo)
-        //    this.dates = this.dates.filter(d => d >= this.filters.timeFrom && d <= this.filters.timeTo)
-
-        console.log(this.dates)
-
-        this.dates.sort()
-
-        this.filters.timeFrom = this.dates[0]
-        this.filters.timeTo = this.dates[this.dates.length - 1]
     }
 
     async updateCollaborations(key) {
@@ -349,17 +343,43 @@ class DataModel {
     }
 
     getDates() {
-        let dates = this.dates.filter(d => d >= this.filters.timeFrom && d <= this.filters.timeTo)
-        dates.sort()
-        return dates;
+        // Même lorsqu'un filtre de temps est appliqué, nous voulons une séquence complète
+        let allDates = this.getAllDates()
+        
+        // Si des filtres sont appliqués, filtrer la séquence tout en préservant la continuité
+        if (this.filters.timeFrom && this.filters.timeTo) {
+            return allDates.filter(d => d >= this.filters.timeFrom && d <= this.filters.timeTo)
+        }
+        
+        return allDates
     }
+    
 
     getAllDates() {
-       
+        // Récupérer toutes les années de tous les items
         let values = this.items.map(d => +d.year)
-        values = values.filter( (d,i) => values.indexOf(d) === i)
-        values.sort()
-        return values;
+        
+        // Filtrer les doublons
+        values = values.filter((d,i) => values.indexOf(d) === i)
+        
+        // S'assurer qu'il y a au moins une date
+        if (values.length === 0) {
+            return []
+        }
+        
+        // Trier les valeurs
+        values.sort((a, b) => a - b)
+        
+        // Créer une liste complète avec toutes les années dans la plage
+        const minYear = Math.min(...values) - 1
+        const maxYear = Math.max(...values) + 1
+        
+        const completeYears = []
+        for (let year = minYear; year <= maxYear; year++) {
+            completeYears.push(year)
+        }
+        
+        return completeYears
     }
 
     getMatchingLabels(value) {

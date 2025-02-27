@@ -19,26 +19,26 @@ class Profile {
             dates.forEach(year => {       
                 
                 let res = items.filter(d => d.node.key === node.key && d.year === year)
-
+    
                 let item = {
                     year: year,
                     node: node,
                     values: [...res]
                 }
-
+    
                 types.forEach(type => {
                     let resType = items.filter(d => d.node.key === node.key && d.year === year && d.node.contribution.includes(type))
                 
                     item[type] = resType.length
                 })
-
+    
                 itemsByYear.push(item)
             })
         })
-
+    
         this.stack = d3.stack()
             .keys(types)
-
+    
         await this.setStack()
         
         this.data = nodes.map(node => {
@@ -49,7 +49,7 @@ class Profile {
                 'data' : this.stack(nodeData)
             }
         })
-
+    
         /// one group per artist ; it will hold the profile wave ////////
         this.group = d3.select(this.chart.shadowRoot.querySelector('#nodes-group')).selectAll('g.artist')
             .selectAll('g.profile')
@@ -60,17 +60,42 @@ class Profile {
                 update => update,
                 exit => exit.remove()
             )
-
-
+    
+        // Calculer correctement l'étendue des données pour l'échelle de hauteur
         this.heightScale = d3.scaleLinear()
             .domain(await this.getExtent())
-
+    
+        // MODIFICATION: Ajuster la fonction d'aire pour éviter la superposition
+        // Déterminer le nombre de nœuds pour ajuster l'échelle verticale
+        const nodeCount = nodes.length;
+        
+        // Facteur pour réduire la hauteur proportionnellement au nombre de nœuds
+        // Plus il y a de nœuds, plus ce facteur est petit
+        const heightFactor = nodeCount <= 2 ? 1.0 : (1.0 / Math.sqrt(nodeCount/2));
+        
         this.area = d3.area()
             .x(d => this.chart.xAxis.scale(d.data.year) + this.chart.xAxis.step(d.data.year) / 2)
-            .y0(d => this.chart.yAxis.scale(d.data.node.key) + (this.chart.isProfileActive(d) ? this.heightScale(d[1]) : 0))
-            .y1(d => this.chart.yAxis.scale(d.data.node.key) + (this.chart.isProfileActive(d) ? this.heightScale(d[0]) : 0))
-            .curve(d3.curveBasis) 
-
+            .y0(d => {
+                // Position de base du nœud
+                const basePos = this.chart.yAxis.scale(d.data.node.key);
+                
+                // Ajuster la hauteur pour éviter la superposition
+                const heightValue = this.chart.isProfileActive(d) ? this.heightScale(d[1]) : 0;
+                
+                // Multiplier par le facteur de hauteur pour réduire proportionnellement
+                return basePos + (heightValue * heightFactor);
+            })
+            .y1(d => {
+                // Position de base du nœud
+                const basePos = this.chart.yAxis.scale(d.data.node.key);
+                
+                // Ajuster la hauteur pour éviter la superposition
+                const heightValue = this.chart.isProfileActive(d) ? this.heightScale(d[0]) : 0;
+                
+                // Multiplier par le facteur de hauteur pour réduire proportionnellement
+                return basePos + (heightValue * heightFactor);
+            })
+            .curve(d3.curveBasis)
     }
 
     async setStack() {}

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poster A0 - Visualisation des Œuvres d'Art Spoliées</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 841mm;
+            height: 1189mm;
+            margin: 0;
+            padding: 20mm;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+        }
+        .header, .footer {
+            text-align: center;
+            margin-bottom: 20mm;
+        }
+        .header h1 {
+            font-size: 36pt;
+            margin: 0;
+        }
+        .header p {
+            font-size: 24pt;
+            margin: 5mm 0;
+        }
+        .content {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        .column {
+            width: 48%;
+        }
+        .section {
+            margin-bottom: 20mm;
+        }
+        .section h2 {
+            font-size: 28pt;
+            margin-top: 0;
+        }
+        .section p {
+            font-size: 20pt;
+            line-height: 1.6;
+        }
+        .section img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 10mm;
+        }
+        .references {
+            font-size: 18pt;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>L'usage de techniques de visualisation pour aider à retrouver des œuvres d'art spoliées</h1>
+            <p>Numéro du projet : PER2024-033</p>
+            <p>Nom des étudiants : Loris DRID (Polytech)</p>
+            <p>Contact email : loris.drid@example.com</p>
+            <p>Encadrant : Marco Winckler, Aline Menin</p>
+        </div>
+        <div class="content">
+            <div class="column">
+                <div class="section">
+                    <h2>Description du problème/contexte</h2>
+                    <p>Les œuvres d'art spoliées pendant la Seconde Guerre mondiale représentent un patrimoine culturel dispersé dont l'histoire est souvent fragmentée et difficile à reconstituer. Ce projet vise à explorer et développer des techniques de visualisation adaptées à ces données complexes pour faciliter la reconstitution des trajectoires des œuvres d'art et la compréhension des relations entre les différents acteurs impliqués.</p>
+                </div>
+                <div class="section">
+                    <h2>Objectifs du Projet</h2>
+                    <ul>
+                        <li>Développer des visualisations interactives pour explorer les réseaux d'informations documentant les œuvres spoliées.</li>
+                        <li>Extraire et structurer les informations temporelles contenues dans les textes de provenance.</li>
+                        <li>Créer une représentation visuelle détaillée d'un cas particulier illustrant les dynamiques complexes de falsification et de spoliation.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="column">
+                <div class="section">
+                    <h2>Méthodologie</h2>
+                    <p><strong>Analyse de la base de données TopicProv</strong> : Développement d'un système de visualisation interactive pour explorer les réseaux thématiques et temporels formés par les articles.</p>
+                    <p><strong>Exploration des données de restitution</strong> : Tentatives d'extraction automatisée d'informations chronologiques à partir de textes narratifs via DBpedia Spotlight et le modèle de langage Mistral.</p>
+                    <p><strong>Étude de cas détaillée</strong> : Falsification d'une œuvre de Modigliani, démontrant l'intérêt d'une taxonomie enrichie des rôles et relations pour la visualisation d'une chronologie narrative complexe.</p>
+                </div>
+                <div class="section">
+                    <h2>Résultats</h2>
+                    <p><strong>Avantages</strong> :</p>
+                    <ul>
+                        <li>Visualisation interactive et intuitive du réseau d'informations liées aux œuvres d'art spoliées.</li>
+                        <li>Identification de patterns intéressants dans la couverture médiatique et académique des œuvres.</li>
+                        <li>Représentation détaillée de la chronologie narrative complexe dans l'étude de cas.</li>
+                    </ul>
+                    <p><strong>Inconvénients</strong> :</p>
+                    <ul>
+                        <li>Difficultés dans l'extraction automatisée d'informations structurées à partir des textes de provenance.</li>
+                        <li>Limitations techniques dans la visualisation des relations complexes et des données clairsemées.</li>
+                        <li>Nécessité d'une ontologie spécialisée pour une meilleure structuration des données.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="section">
+                <h2>Figures de Mérite (FOMs)</h2>
+                <ul>
+                    <li><strong>Précision de l'extraction d'informations</strong> : Taux de réussite dans l'identification des entités nommées et des relations temporelles.</li>
+                    <li><strong>Interactivité de la visualisation</strong> : Capacité à explorer différents niveaux de granularité et à filtrer les informations.</li>
+                    <li><strong>Cohérence des données</strong> : Consistance des informations extraites par rapport aux sources originales.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h2>Conclusion et Perspectives</h2>
+                <p><strong>Conclusion</strong> : Les techniques de visualisation adaptées aux données complexes des œuvres d'art spoliées offrent des perspectives prometteuses pour la reconstitution des trajectoires des œuvres. Les défis rencontrés soulignent la nécessité de développer des modèles de données plus riches et des outils de visualisation adaptatifs.</p>
+                <p><strong>Perspectives</strong> :</p>
+                <ul>
+                    <li>Développement d'une ontologie spécialisée pour le domaine de la spoliation et de la restitution d'œuvres d'art.</li>
+                    <li>Exploration de techniques de visualisation adaptatives et intégration multimodale.</li>
+                    <li>Utilisation de LLM fine-tunés pour l'analyse de textes historiques liés à l'art.</li>
+                </ul>
+            </div>
+            <div class="section references">
+                <h2>Références</h2>
+                <ol>
+                    <li>``Visualizing Time Series Data: 7 Types of Temporal Visualizations,'' [Online]. Available: <a href="https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/">https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/</a></li>
+                    <li>``Incremental and multimodal visualization of discographies: exploring the WASABI music knowledge base,'' [Online]. Available: <a href="https://zenodo.org/records/6767530">https://zenodo.org/records/6767530</a></li>
+                    <li>``Inline Co-Evolution between Users and Information Presentation for Data Exploration,'' [Online]. Available: <a href="https://hal.science/hal-04440387/document">https://hal.science/hal-04440387/document</a></li>
+                    <li>``PAOHVis: Hypergraph Data Analysis,'' [Online]. Available: <a href="https://ceur-ws.org/Vol-2994/paper15.pdf">https://ceur-ws.org/Vol-2994/paper15.pdf</a></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

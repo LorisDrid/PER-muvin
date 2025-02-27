@@ -23,7 +23,8 @@
     {"value": "Richard Stevenson Condon (collector)", "link": null},
     {"value": "Nick Rosen (journalist)", "link": null},
     {"value": "John Connolly (journalist)", "link": null},
-    {"value": "Spy Magazine (publication)", "link": "https://www.wikidata.org/wiki/Q3494289"}
+    {"value": "Spy Magazine (publication)", "link": "https://www.wikidata.org/wiki/Q3494289"},
+    {"value": "Vanessa Dupont (fictitious dealer)", "link": null}
   ],
   "items": [
     {
@@ -119,6 +120,105 @@
         {"value": "Gertrude Stein (dealer)", "role": "expert"},
         {"value": "Modigliani Sculpture (artwork)", "role": "artwork"},
         {"value": "Amedeo Modigliani (artist)", "role": "artist"}
+      ]
+    },
+    {
+      "title": "Galerie Dupont Opening",
+      "date": "1986-05",
+      "type": "Social",
+      "description": "Inauguration de la Galerie Dupont, spécialisée dans l'art moderne européen. Vanessa Dupont, nouvelle venue sur la scène new-yorkaise, a rapidement attiré l'attention par ses connexions avec plusieurs collectionneurs influents. L'événement d'ouverture a rassemblé des personnalités du monde de l'art et a présenté plusieurs œuvres controversées dont l'authenticité sera plus tard remise en question. Cette soirée marque le début de l'ascension de Dupont dans le milieu des marchands d'art de luxe.",
+      "link": null,
+      "entities": [
+        {"value": "Vanessa Dupont (fictitious dealer)", "role": "host"},
+        {"value": "Timeline (timeline)", "role": "context"}
+      ]
+    },
+    {
+      "title": "European Masters Exhibition",
+      "date": "1986-12",
+      "type": "Exhibition",
+      "description": "Exposition organisée par Vanessa Dupont présentant une collection de maîtres européens, incluant plusieurs œuvres prétendument de Modigliani. L'exposition a attiré l'attention pour ses pièces rares jamais vues auparavant sur le marché américain. Des rumeurs concernant la provenance douteuse de certaines œuvres ont commencé à circuler mais ont été étouffées par l'excellente réputation sociale de Dupont et ses relations avec plusieurs critiques d'art influents.",
+      "link": null,
+      "entities": [
+        {"value": "Vanessa Dupont (fictitious dealer)", "role": "organizer"},
+        {"value": "Timeline (timeline)", "role": "context"}
+      ]
+    },
+    {
+      "title": "Berlin Art Acquisition Trip",
+      "date": "1987-03",
+      "type": "Deal",
+      "description": "Voyage d'acquisition à Berlin organisé par Vanessa Dupont pour plusieurs collectionneurs américains de premier plan. Durant ce voyage, Dupont a facilité l'achat de plusieurs œuvres provenant de collections privées est-allemandes, dont la documentation était limitée en raison du contexte politique. Ce voyage a plus tard été identifié comme une source possible pour plusieurs œuvres douteuses qui ont ensuite circulé sur le marché américain.",
+      "link": null,
+      "entities": [
+        {"value": "Vanessa Dupont (fictitious dealer)", "role": "organizer"},
+        {"value": "Timeline (timeline)", "role": "context"}
+      ]
+    },
+    {
+      "title": "Art Market Partnership",
+      "date": "1988-07",
+      "type": "Deal",
+      "description": "Formation d'un partenariat commercial discret initié par Vanessa Dupont pour l'acquisition et la revente d'œuvres d'art modernistes. Cette alliance a permis d'accéder à de nouveaux marchés tout en bénéficiant d'expertise en matière de manipulation du marché. Ce partenariat n'a jamais été officiellement annoncé mais a été découvert plus tard par des journalistes d'investigation.",
+      "link": null,
+      "entities": [
+        {"value": "Vanessa Dupont (fictitious dealer)", "role": "initiator"},
+        {"value": "Timeline (timeline)", "role": "context"}
+      ]
+    },
+    {
+      "title": "Hamptons Art Weekend",
+      "date": "1989-06",
+      "type": "Social",
+      "description": "Weekend d'art dans les Hamptons organisé par Vanessa Dupont, réunissant collectionneurs, critiques et experts. L'événement, organisé dans une propriété luxueuse, combinait expositions privées et réceptions sociales. Plusieurs œuvres controversées ont changé de mains durant cet événement, souvent à des prix records et sans documentation complète. Ce weekend illustre la stratégie de Dupont consistant à créer un environnement social prestigieux pour faciliter des transactions douteuses.",
+      "link": null,
+      "entities": [
+        {"value": "Vanessa Dupont (fictitious dealer)", "role": "host"},
+        {"value": "Timeline (timeline)", "role": "context"}
+      ]
+    },
+    {
+      "title": "Documentation Workshop",
+      "date": "1990-02",
+      "type": "Workshop",
+      "description": "Atelier privé organisé par Vanessa Dupont sur la création de provenances convaincantes pour des œuvres à l'historique incertain. Présenté comme un séminaire sur l'archivage et la documentation, cet événement confidentiel a en réalité servi à partager des techniques pour légitimer des œuvres douteuses. L'existence de cet atelier n'a été révélée que plus tard par un participant anonyme devenu informateur.",
+      "link": null,
+      "entities": [
+        {"value": "Vanessa Dupont (fictitious dealer)", "role": "organizer"},
+        {"value": "Timeline (timeline)", "role": "context"}
+      ]
+    },
+    {
+      "title": "Art Investment Fund Establishment",
+      "date": "1991-09",
+      "type": "Business",
+      "description": "Création par Vanessa Dupont d'un fonds d'investissement dans l'art, présenté comme un véhicule pour collectionneurs souhaitant diversifier leurs portefeuilles dans l'art moderniste. Le fonds, enregistré offshore, a permis de lever des millions de dollars pour l'acquisition d'œuvres d'art, avec peu de transparence sur les acquisitions réelles. Cette structure complexe a servi à faciliter la circulation d'œuvres douteuses tout en offrant aux investisseurs une apparence de légitimité et des avantages fiscaux.",
+      "link": null,
+      "entities": [
+        {"value": "Vanessa Dupont (fictitious dealer)", "role": "founder"},
+        {"value": "Timeline (timeline)", "role": "context"}
+      ]
+    },
+    {
+      "title": "Authentication Controversy",
+      "date": "1992-03",
+      "type": "Controversy",
+      "description": "Controverse après qu'une œuvre vendue par Vanessa Dupont ait été refusée pour une vente aux enchères en raison de doutes sur son authenticité. Dupont a vigoureusement contesté cette décision, engageant une campagne médiatique contre la maison d'enchères et mobilisant plusieurs experts pour défendre l'œuvre. Cet incident a marqué le début du déclin de sa réputation dans le milieu de l'art haut de gamme.",
+      "link": null,
+      "entities": [
+        {"value": "Vanessa Dupont (fictitious dealer)", "role": "protagonist"},
+        {"value": "Timeline (timeline)", "role": "context"}
+      ]
+    },
+    {
+      "title": "Art Market Investigation",
+      "date": "1993-01",
+      "type": "Publication",
+      "description": "Enquête approfondie d'un magazine sur les pratiques commerciales de Vanessa Dupont, révélant ses connexions avec plusieurs marchands controversés. L'article documente un réseau complexe de transactions douteuses, de falsifications de provenances et de manipulations d'experts. Cette publication a effectivement mis fin aux activités de Dupont dans le monde de l'art américain, la forçant à se retirer de la scène publique.",
+      "link": null,
+      "entities": [
+        {"value": "Vanessa Dupont (fictitious dealer)", "role": "subject"},
+        {"value": "Timeline (timeline)", "role": "context"}
       ]
     }
   ]

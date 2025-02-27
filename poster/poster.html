@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Poster Académique - Œuvres d'Art Spoliées</title>
+    <title>Poster Académique</title>
     <style>
         /* Styles généraux pour le poster A0 (portrait) */
         body {
@@ -290,7 +290,7 @@
                         
                         <div class="key-point">
                             <h4>2. Extraction Automatisée</h4>
-                            <p>Tentatives d'extraction d'informations chronologiques à partir de textes narratifs via DBpedia Spotlight et Mistral.</p>
+                            <p>Tentatives d'extraction d'informations chronologiques à partir des textes narratifs de provenance issus de la base de données de Restitution via DBpedia Spotlight et Mistral.</p>
                         </div>
                         
                         <div class="key-point">
@@ -318,6 +318,7 @@
                 <!-- Réalisation 1 -->
                 <div class="section">
                     <h2 class="section-title">Visualisation du Réseau TopicProv</h2>
+                    <p>Notre première approche s'est concentrée sur l'exploration du réseau d'articles et de publications liés aux œuvres d'art spoliées. Nous avons développé une visualisation interactive permettant d'explorer les connexions thématiques et temporelles à partir du fichier TopicProv qui regroupe ces publications.</p>
                     <div class="image-container">
                         <img src="TopicProv.png" alt="base de donnée TopicProv" />
                         <p class="image-caption">Extrait de data du fichier TopicProv</p>
@@ -343,8 +344,13 @@
                 <div class="section">
                     <h2 class="section-title">Extraction Automatisée d'Informations</h2>
                     <div class="image-container">
+                        <img src="restitution.png" alt="base de donnée Restitution " />
+                        <p class="image-caption">Extrait de data du fichier Restitution</p>
+                    </div>
+                    <p>Notre deuxième approche a porté sur l'analyse du fichier de Restitution contenant des textes narratifs détaillant l'historique des œuvres d'art spoliées, depuis leur spoliation jusqu'à leur éventuelle restitution.</p>
+                    <div class="image-container">
                         <img src="dbpedia.png" alt="Extraction automatisée d'informations" />
-                        <p class="image-caption">Processus d'extraction de chronologies à partir de textes narratifs</p>
+                        <p class="image-caption">Processus d'extraction de chronologies à partir de textes narratifs de provenance</p>
                     </div>
                     
                     <div class="subsection-title">Défis et enseignements</div>
@@ -357,53 +363,34 @@
                     
                     <div class="highlight-box">
                         <div class="highlight-title">Valeur ajoutée malgré les limitations</div>
-                        <p>Cette approche met en évidence l'importance d'une méthode hybride combinant extraction automatisée et expertise humaine pour traiter efficacement des textes historiques complexes.</p>
+                        <p>Cette approche met en évidence l'importance d'une méthode hybride combinant extraction automatisée et expertise humaine pour traiter efficacement des textes historiques complexes issus des bases de données de restitution.</p>
                     </div>
                 </div>
                 
                 <!-- Réalisation 3 -->
                 <div class="section">
                     <h2 class="section-title">Étude de Cas Modigliani</h2>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
                     <div class="image-container">
                         <img src="artscam.png" alt="Étude de cas Modigliani" />
                         <p class="image-caption">Visualisation de la chronologie et des relations dans l'affaire de falsification</p>
                     </div>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
                     <div class="image-container">
                         <img src="artscamPanel.png" alt="Information de l'event et des roles" />
                         <p class="image-caption">Panel d'informations sur les entités et leur rôle dans l'événement</p>
                     </div>
-                    <br>
-                    <div style="height: 12px;"></div>
+                    
                     <div class="subsection-title">Avancées méthodologiques</div>
                     <ul>
                         <li>Représentation précise des rôles spécifiques (vendeur, acheteur, expert, témoin) absents des ontologies standards</li>
-                        <br>
                         <li>Visualisation chronologique révélant l'évolution dynamique des relations entre acteurs</li>
-                        <br>
                         <li>Mise en évidence des moments clés et des chaînes causales dans l'affaire</li>
-                        <br>
                         <li>Code couleur sémantique pour identifier la nature de l'implication de chaque entité</li>
                     </ul>
-                    <br>
-                    <br>
-                    <br>
+                    
                     <div class="highlight-box">
                         <div class="highlight-title">Innovation taxonomique</div>
                         <p>L'enrichissement de la taxonomie des rôles constitue une avancée significative pour la modélisation des relations complexes dans les affaires de spoliation et de falsification d'œuvres d'art.</p>
                     </div>
-                    <br>
-                    <br>
-                    <br>
                 </div>
             </div>
         </div>

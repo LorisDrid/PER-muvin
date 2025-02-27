@@ -23,8 +23,8 @@
     {"value": "Richard Stevenson Condon (collector)", "link": null},
     {"value": "Nick Rosen (journalist)", "link": null},
     {"value": "John Connolly (journalist)", "link": null},
-    {"value": "Spy Magazine (publication)", "link": "https://www.wikidata.org/wiki/Q3494289"},
-    {"value": "Vanessa Dupont (fictitious dealer)", "link": null}
+    {"value": "Spy Magazine (publication)", "link": "https://www.wikidata.org/wiki/Q3494289"}
+
   ],
   "items": [
     {
@@ -65,7 +65,7 @@
       "date": "1991",
       "type": "Social",
       "description": "Dîner en cravate noire au Metropolitan Club organisé pour le 35e anniversaire de Paul Quatrochi. L'événement rassemble environ 60 invités prestigieux du monde de l'art, illustrant la méthode de Quatrochi pour construire sa légitimité. La Princesse Michaela von Hapsburg, séparée d'un comte français et expulsée de son penthouse, est présente. Elle a besoin d'argent tandis que Quatrochi a besoin d'introductions auprès de riches collectionneurs. Le dîner révèle aussi les tensions dans le milieu, notamment quand Quatrochi menace ouvertement un vendeur de la Gagosian Gallery devant des représentants de Christie's. Cet événement mondain illustre comment Quatrochi utilise les connexions sociales pour faciliter ses transactions douteuses d'œuvres d'art.",
-      "link": "https://www.wikidata.org/wiki/Q114232350",
+      "link": "/muvin/Modigliani-1991.html",
       "entities": [
         {"value": "Paul Quatrochi (dealer)", "role": "host"},
         {"value": "Metropolitan Club (venue)", "role": "venue"},
@@ -84,7 +84,7 @@
       "date": "1987",
       "type": "Deal",
       "description": "Vente d'un portrait contesté de Jeanne Hébuterne, dernière maîtresse de Modigliani qui s'est suicidée le lendemain de sa mort. Quatrochi vend l'œuvre pour 685,000$ à Roy Zurkowski, président des clubs de santé Bally's. Après avoir entendu des rumeurs sur l'authenticité, Zurkowski demande un remboursement. Face au refus, il fait intervenir Jerry Vasilatos, un ancien policier devenu directeur de sécurité du Vertical Club. Sous la pression, Quatrochi rembourse mais prétend avoir revendu le tableau avec un énorme profit, suggérant l'existence d'un réseau d'acheteurs pour des œuvres douteuses. Cette transaction montre les méthodes intimidantes utilisées dans ce milieu et la capacité de Quatrochi à manipuler le marché.",
-      "link": "https://www.wikidata.org/wiki/Q114232350",
+      "link": "/muvin/Modigliani-1987.html",
       "entities": [
         {"value": "Paul Quatrochi (dealer)", "role": "seller"},
         {"value": "Roy Zurkowski (collector)", "role": "buyer"},
@@ -98,7 +98,7 @@
       "date": "1988",
       "type": "Publication",
       "description": "Publication d'un livre d'authentification controversé sur les sculptures de Modigliani. Financé par Quatrochi, le livre est publié par la mystérieuse Namega Corporation de Jacksonville, une société dont le département d'État de Floride n'a aucune trace. Bernard Schuster, un auteur inconnu des experts Modigliani, prétend être un protégé d'Arthur Pfannstiel. Pfannstiel, expert reconnu de Modigliani, était déjà mort au moment de la publication. Quatrochi a orchestré le transfert des archives Pfannstiel à Schuster et financé la publication. Le livre sera plus tard utilisé pour tenter d'authentifier une sculpture douteuse, montrant comment Quatrochi crée de fausses provenances pour légitimer des œuvres suspectes.",
-      "link": "https://www.wikidata.org/wiki/Q114232350",
+      "link": "/muvin/Modigliani-1988.html",
       "entities": [
         {"value": "Paul Quatrochi (dealer)", "role": "financier"},
         {"value": "Bernard Schuster (expert)", "role": "author"},
@@ -113,112 +113,13 @@
       "date": "1989",
       "type": "Deal",
       "description": "Tentative de vente d'une sculpture prétendument de Modigliani. Quatrochi affirme l'avoir trouvée servant de cale-porte dans une maison de la banlieue de Londres et l'avoir achetée pour quelques livres. Avec l'aide de l'avocat Tom Andrews, il tente de la vendre en utilisant le livre d'authentification précédemment publié comme preuve de légitimité. Gertrude Stein, propriétaire d'une galerie sur Madison Avenue, refuse d'authentifier l'œuvre qu'elle juge fausse. D'autres collectionneurs avertis conseillent de ne pas perdre de temps avec cette pièce. Cette tentative montre comment les différentes opérations de Quatrochi s'articulent : création de fausse provenance via le livre, utilisation de professionnels du droit, tentatives de légitimation par des experts reconnus.",
-      "link": "https://www.wikidata.org/wiki/Q114232350",
+      "link": "/muvin/Modigliani-1989.html",
       "entities": [
         {"value": "Paul Quatrochi (dealer)", "role": "seller"},
         {"value": "Tom Andrews (lawyer)", "role": "agent"},
         {"value": "Gertrude Stein (dealer)", "role": "expert"},
         {"value": "Modigliani Sculpture (artwork)", "role": "artwork"},
         {"value": "Amedeo Modigliani (artist)", "role": "artist"}
-      ]
-    },
-    {
-      "title": "Galerie Dupont Opening",
-      "date": "1986-05",
-      "type": "Social",
-      "description": "Inauguration de la Galerie Dupont, spécialisée dans l'art moderne européen. Vanessa Dupont, nouvelle venue sur la scène new-yorkaise, a rapidement attiré l'attention par ses connexions avec plusieurs collectionneurs influents. L'événement d'ouverture a rassemblé des personnalités du monde de l'art et a présenté plusieurs œuvres controversées dont l'authenticité sera plus tard remise en question. Cette soirée marque le début de l'ascension de Dupont dans le milieu des marchands d'art de luxe.",
-      "link": null,
-      "entities": [
-        {"value": "Vanessa Dupont (fictitious dealer)", "role": "host"},
-        {"value": "Timeline (timeline)", "role": "context"}
-      ]
-    },
-    {
-      "title": "European Masters Exhibition",
-      "date": "1986-12",
-      "type": "Exhibition",
-      "description": "Exposition organisée par Vanessa Dupont présentant une collection de maîtres européens, incluant plusieurs œuvres prétendument de Modigliani. L'exposition a attiré l'attention pour ses pièces rares jamais vues auparavant sur le marché américain. Des rumeurs concernant la provenance douteuse de certaines œuvres ont commencé à circuler mais ont été étouffées par l'excellente réputation sociale de Dupont et ses relations avec plusieurs critiques d'art influents.",
-      "link": null,
-      "entities": [
-        {"value": "Vanessa Dupont (fictitious dealer)", "role": "organizer"},
-        {"value": "Timeline (timeline)", "role": "context"}
-      ]
-    },
-    {
-      "title": "Berlin Art Acquisition Trip",
-      "date": "1987-03",
-      "type": "Deal",
-      "description": "Voyage d'acquisition à Berlin organisé par Vanessa Dupont pour plusieurs collectionneurs américains de premier plan. Durant ce voyage, Dupont a facilité l'achat de plusieurs œuvres provenant de collections privées est-allemandes, dont la documentation était limitée en raison du contexte politique. Ce voyage a plus tard été identifié comme une source possible pour plusieurs œuvres douteuses qui ont ensuite circulé sur le marché américain.",
-      "link": null,
-      "entities": [
-        {"value": "Vanessa Dupont (fictitious dealer)", "role": "organizer"},
-        {"value": "Timeline (timeline)", "role": "context"}
-      ]
-    },
-    {
-      "title": "Art Market Partnership",
-      "date": "1988-07",
-      "type": "Deal",
-      "description": "Formation d'un partenariat commercial discret initié par Vanessa Dupont pour l'acquisition et la revente d'œuvres d'art modernistes. Cette alliance a permis d'accéder à de nouveaux marchés tout en bénéficiant d'expertise en matière de manipulation du marché. Ce partenariat n'a jamais été officiellement annoncé mais a été découvert plus tard par des journalistes d'investigation.",
-      "link": null,
-      "entities": [
-        {"value": "Vanessa Dupont (fictitious dealer)", "role": "initiator"},
-        {"value": "Timeline (timeline)", "role": "context"}
-      ]
-    },
-    {
-      "title": "Hamptons Art Weekend",
-      "date": "1989-06",
-      "type": "Social",
-      "description": "Weekend d'art dans les Hamptons organisé par Vanessa Dupont, réunissant collectionneurs, critiques et experts. L'événement, organisé dans une propriété luxueuse, combinait expositions privées et réceptions sociales. Plusieurs œuvres controversées ont changé de mains durant cet événement, souvent à des prix records et sans documentation complète. Ce weekend illustre la stratégie de Dupont consistant à créer un environnement social prestigieux pour faciliter des transactions douteuses.",
-      "link": null,
-      "entities": [
-        {"value": "Vanessa Dupont (fictitious dealer)", "role": "host"},
-        {"value": "Timeline (timeline)", "role": "context"}
-      ]
-    },
-    {
-      "title": "Documentation Workshop",
-      "date": "1990-02",
-      "type": "Workshop",
-      "description": "Atelier privé organisé par Vanessa Dupont sur la création de provenances convaincantes pour des œuvres à l'historique incertain. Présenté comme un séminaire sur l'archivage et la documentation, cet événement confidentiel a en réalité servi à partager des techniques pour légitimer des œuvres douteuses. L'existence de cet atelier n'a été révélée que plus tard par un participant anonyme devenu informateur.",
-      "link": null,
-      "entities": [
-        {"value": "Vanessa Dupont (fictitious dealer)", "role": "organizer"},
-        {"value": "Timeline (timeline)", "role": "context"}
-      ]
-    },
-    {
-      "title": "Art Investment Fund Establishment",
-      "date": "1991-09",
-      "type": "Business",
-      "description": "Création par Vanessa Dupont d'un fonds d'investissement dans l'art, présenté comme un véhicule pour collectionneurs souhaitant diversifier leurs portefeuilles dans l'art moderniste. Le fonds, enregistré offshore, a permis de lever des millions de dollars pour l'acquisition d'œuvres d'art, avec peu de transparence sur les acquisitions réelles. Cette structure complexe a servi à faciliter la circulation d'œuvres douteuses tout en offrant aux investisseurs une apparence de légitimité et des avantages fiscaux.",
-      "link": null,
-      "entities": [
-        {"value": "Vanessa Dupont (fictitious dealer)", "role": "founder"},
-        {"value": "Timeline (timeline)", "role": "context"}
-      ]
-    },
-    {
-      "title": "Authentication Controversy",
-      "date": "1992-03",
-      "type": "Controversy",
-      "description": "Controverse après qu'une œuvre vendue par Vanessa Dupont ait été refusée pour une vente aux enchères en raison de doutes sur son authenticité. Dupont a vigoureusement contesté cette décision, engageant une campagne médiatique contre la maison d'enchères et mobilisant plusieurs experts pour défendre l'œuvre. Cet incident a marqué le début du déclin de sa réputation dans le milieu de l'art haut de gamme.",
-      "link": null,
-      "entities": [
-        {"value": "Vanessa Dupont (fictitious dealer)", "role": "protagonist"},
-        {"value": "Timeline (timeline)", "role": "context"}
-      ]
-    },
-    {
-      "title": "Art Market Investigation",
-      "date": "1993-01",
-      "type": "Publication",
-      "description": "Enquête approfondie d'un magazine sur les pratiques commerciales de Vanessa Dupont, révélant ses connexions avec plusieurs marchands controversés. L'article documente un réseau complexe de transactions douteuses, de falsifications de provenances et de manipulations d'experts. Cette publication a effectivement mis fin aux activités de Dupont dans le monde de l'art américain, la forçant à se retirer de la scène publique.",
-      "link": null,
-      "entities": [
-        {"value": "Vanessa Dupont (fictitious dealer)", "role": "subject"},
-        {"value": "Timeline (timeline)", "role": "context"}
       ]
     }
   ]

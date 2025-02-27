@@ -2,9 +2,12 @@ class ArtScamTooltip extends Tooltip {
     constructor() {
         super();
         console.log("ArtScamTooltip constructor called");
+        this.isDragging = false;
+        this.dragOffsetX = 0;
+        this.dragOffsetY = 0;
     }
 
-    // Surcharge de la méthode show pour centrer la tooltip
+    // Surcharge de la méthode show pour centrer la tooltip et ajouter le drag
     show(event, id, width = 400) {
         let tooltip = this.chart.shadowRoot.querySelector(`#${id}-tooltip`);
         tooltip.style.display = 'block';
@@ -34,7 +37,8 @@ class ArtScamTooltip extends Tooltip {
                 'border-radius': '4px',
                 'overflow-y': 'auto',  // Permettre le défilement vertical uniquement
                 'overflow-x': 'hidden', // Empêcher le défilement horizontal
-                'max-height': `${windowHeight * 0.7}px`  // Limiter la hauteur à 70% de la fenêtre
+                'max-height': `${windowHeight * 0.7}px`,  // Limiter la hauteur à 70% de la fenêtre
+                'cursor': 'move' // Curseur indiquant que l'élément est déplaçable
             });
         
         // Add a close button to the tooltip
@@ -55,10 +59,62 @@ class ArtScamTooltip extends Tooltip {
         closeButton.classList.add('tooltip-close-btn');
         tooltip.appendChild(closeButton);
         
+        // Ajouter les gestionnaires d'événements pour le drag
+        this.setupDrag(tooltip, id);
+        
         // Add click handler to prevent tooltip closing when clicking inside it
         tooltip.addEventListener('click', (e) => {
             e.stopPropagation();
         }, { once: false });
+    }
+    
+    // Configurer les événements de drag pour la tooltip
+    setupDrag(tooltip, id) {
+        // Supprimer les anciens gestionnaires s'ils existent
+        tooltip.onmousedown = null;
+        
+        // Ajouter le gestionnaire mousedown
+        tooltip.onmousedown = (e) => {
+            // Ne pas démarrer le drag si on clique sur le bouton de fermeture
+            if (e.target.closest('.tooltip-close-btn')) return;
+            
+            // Démarrer le drag
+            this.isDragging = true;
+            
+            // Calculer l'offset entre la position de la souris et la position de la tooltip
+            const tooltipRect = tooltip.getBoundingClientRect();
+            this.dragOffsetX = e.clientX - tooltipRect.left;
+            this.dragOffsetY = e.clientY - tooltipRect.top;
+            
+            // Empêcher la sélection de texte pendant le drag
+            e.preventDefault();
+            
+            // Fonction de mouvement lors du drag
+            const onMouseMove = (e) => {
+                if (!this.isDragging) return;
+                
+                // Calculer la nouvelle position
+                const newLeft = e.clientX - this.dragOffsetX;
+                const newTop = e.clientY - this.dragOffsetY;
+                
+                // Appliquer la nouvelle position
+                tooltip.style.left = `${newLeft}px`;
+                tooltip.style.top = `${newTop}px`;
+            };
+            
+            // Fonction de fin du drag
+            const onMouseUp = () => {
+                this.isDragging = false;
+                
+                // Supprimer les gestionnaires temporaires
+                document.removeEventListener('mousemove', onMouseMove);
+                document.removeEventListener('mouseup', onMouseUp);
+            };
+            
+            // Ajouter les gestionnaires temporaires
+            document.addEventListener('mousemove', onMouseMove);
+            document.addEventListener('mouseup', onMouseUp);
+        };
     }
 
     // Helper function to remove parentheses and their content
@@ -76,11 +132,14 @@ class ArtScamTooltip extends Tooltip {
             `<div style="margin: 20px 0; padding: 15px; background-color: #f9f9f9; border-radius: 4px; border-left: 3px solid #ddd;">
                 ${d.description.length > 200 ? d.description.substring(0, 200) + '...' : d.description}
             </div>` : '';
-        const more = `<div style="text-align: center; margin: 30px 0 15px 0;">
-            <a href="${d.link}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #4682B4; color: white; text-decoration: none; border-radius: 4px;">
-                View Source
-            </a>
-        </div>`;
+        
+        // Vérifier si un lien est disponible et l'utiliser
+        const more = d.link ? 
+            `<div style="text-align: center; margin: 30px 0 15px 0;">
+                <a href="${d.link}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #4682B4; color: white; text-decoration: none; border-radius: 4px;">
+                    View Details
+                </a>
+            </div>` : '';
 
         // Couleurs pour les différents rôles avec les rôles simplifiés
         const roleColors = {
@@ -196,7 +255,7 @@ class ArtScamTooltip extends Tooltip {
             ${contributors}
             ${more}
             <div style="text-align: center; margin-top: 24px; font-size: 12px; color: #999;">
-                Click outside or the ✕ to close
+                Drag to move this box. Click the ✕ or outside to close.
             </div>
         `, id);
     }
@@ -224,7 +283,7 @@ class ArtScamTooltip extends Tooltip {
             <div><b>${this.getVisibleCollaborators(value).length}</b> relationships in this network</div>
         </div>
         <div style="text-align: center; margin-top: 30px; font-size: 12px; color: #999;">
-            Click outside or the ✕ to close
+            Drag to move this box. Click the ✕ or outside to close.
         </div>`;
 
         this.setContent(content, id);

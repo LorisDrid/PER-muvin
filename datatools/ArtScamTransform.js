@@ -265,6 +265,9 @@ class ArtScamsTransform extends Transform {
                 date: ref.date.value,
                 year: parseInt(year),
                 type: [ref.type.value],
+                // Add the link from the original item
+                link: originalItem ? originalItem.link : null,
+                description: originalItem ? originalItem.description : null,
                 contributors: alters.map(a => ({
                     ...a,  // Copier toutes les propriétés de l'alter
                     key: a.key,
